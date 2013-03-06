@@ -41,16 +41,19 @@ Our vision for Embark is to create a company that encourages creativity and 'out
 ### Sam Billingham
 
 **Managing Director**
+
 [+SAM BIO]
 
 ### Chris Packard
 
 **Technical Director**
+
 Back-end developer... Experienced in multiple programming languages, both client-side and server-side, including .NET and PHP.
 
 ### Phil Rose
 
 **Creative Director**
+
 Phil has extensive knowledge of web technologies and is proficient in user experience and interaction design. With previous professional experience in online marketing, web design and front-end development, Phil brings key creative insight to the team.
 
 ## 2.3. Services
