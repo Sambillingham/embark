@@ -10,7 +10,6 @@
 
 ## 3.5. PESTEL Analysis
 
-<<<<<<< HEAD
 ### Political
 
 ### Economical
@@ -67,18 +66,24 @@ How strong/weak the population’s opinion on green issues is.
 
 #### Emerging technology
 
-Due to the type of company we are, this is imperative. We need to be aware of every new piece of technology that we can take advantage of and implement into out marketing strategies. This is what will keep us at the forefront of our sector, and ahead of the competition.#### R&D funding
+Due to the type of company we are, this is imperative. We need to be aware of every new piece of technology that we can take advantage of and implement into out marketing strategies. This is what will keep us at the forefront of our sector, and ahead of the competition.
 
-It may be possible to secure research and development funding when looking into new technology.#### Understanding technology shelf life
+#### R&D funding
 
-As well as discovering new technologies, it is important to know when old ones are no longer ideal for the task in hand. #### Intellectual property issues
+It may be possible to secure research and development funding when looking into new technology.
 
-For any IP we create that does not belong to a client, we must make sure we protect it with the relevant patents.#### Communications
+#### Understanding technology shelf life
+
+As well as discovering new technologies, it is important to know when old ones are no longer ideal for the task in hand. 
+
+#### Intellectual property issues
+
+For any IP we create that does not belong to a client, we must make sure we protect it with the relevant patents.
+
+#### Communications
 
 Awareness of how our clients communicate.
 
-## 3.6. SWOT Analysis
-=======
 ## 3.6. SWOT Analysis
 
 ### Strengths
@@ -145,4 +150,4 @@ Increase in prices to hardware, software or equipment as well as ongoing cost of
 Physcial/ internet of things events will be effected by the weather.
 
 need for insurance and H&S for events/projects
->>>>>>> a4fe560f7a8421598a081a47cbfac94f33f3a896
+
