@@ -3,8 +3,7 @@
 1.1. Company Description
 1.2. Mission Statement
 1.3. Products and Services
-1.4. Financial Forecast
-1.5. Financing Requirements
+
 
 2. Business Description
 2.1. The Company's Mission
@@ -35,13 +34,13 @@
 5.7. Staffing
 5.8. Training
 
-6. Forecasting
-6.1. Sales Forecast
-6.2. 12 Month Profit and Loss Projection
-6.3. 5 Year Profit and Loss Projection
-6.4. Cash Flow Projection
-6.5. Opening Day Balance Sheet
-6.6. Break-Even Analysis
+6. Finance Forecasting
+risks and assumptions
+start up costs
+12 month
+3/5 years (to show growth)
+1.4. Financial Forecast
+1.5. Financing Requirements
 6.7. Funds Required and Timing
 6.8. Funding Options
 

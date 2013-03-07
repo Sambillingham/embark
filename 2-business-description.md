@@ -70,6 +70,12 @@ We have chosen 'companiesmadesimple', an approved partner of companies house, sp
 
 ## 2.5. Legal
 
+time with solicitor
+
+office insurance
+loss of earning insurance
+backup systems
+
 **Public Liability Insurance** - Protecting Embark in the event of causing damage to property, or physical harm, injury or death to a third party as part of business activities conducted by Embark.
 
 **Employer's Liability Insurance** - Protecting Embark in the event of claims being made by employees in cases of injury or sickness as a result of business activities conducted by Embark.

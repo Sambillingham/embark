@@ -96,7 +96,7 @@ Multi disciplinary staff are flexible to the current workload wether it be more 
 
 Can take on large projects that span over many months while simultaneously working on smaller projects or standard digital agency work. 
 
-Straight out of university, enthuasitic, motivated, innovative, different and creative, this is proven with high grades and multiple successful projects.
+Straight out of university, enthusiastic, motivated, innovative, different and creative, this is proven with high grades and multiple successful projects.
 
 "In future" Embark can quickly turn around projects when needed and could charge a premium for the ability to do this, becoming know for creating products quickly when needed to by clients.
 
@@ -147,7 +147,7 @@ More basic design/dev work has high competition with other digital agencies in t
 
 Increase in prices to hardware, software or equipment as well as ongoing cost of subscription services.
 
-Physcial/ internet of things events will be effected by the weather.
+Physical/ internet of things events will be effected by the weather.
 
 need for insurance and H&S for events/projects
 
