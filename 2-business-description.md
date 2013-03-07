@@ -42,7 +42,10 @@ Our vision for Embark is to create a company that encourages creativity and 'out
 
 **Managing Director**
 
-[+SAM BIO]
+**Sam Billingham** 
+
+Sam is Passionate about new technologies and they way we integrate them into everyday life, Sam ensures we keep every project as innovative and specialised as possible. Sam enjoys learning and researching about whats new in the digital sector and plays a large role in keeping Embark on the cutting edge. With 
+
 
 ### Chris Packard
 
@@ -55,10 +58,6 @@ Back-end developer... Experienced in multiple programming languages, both client
 **Creative Director**
 
 Phil has extensive knowledge of web technologies and is proficient in user experience and interaction design. With previous professional experience in online marketing, web design and front-end development, Phil brings key creative insight to the team.
-
-**Sam Billingham** - *MD*
-
-Sam is Passionate about new technologies and they way we integrate them into everyday life, Sam ensures we keep every project as innovative and specialised as possible. Sam enjoys learning and researching about whats new in the digital sector and plays a large role in keeping Embark on the cutting edge. With 
 
 ## 2.3. Services
 

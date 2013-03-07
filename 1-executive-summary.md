@@ -2,6 +2,15 @@
 
 ## 1.1. Company Description
 
+Innovation and creative thinking every single time.
+
+Inonvative and creative every single time.
+
+innovation and creation done the right way.
+
+instinctively creative.
+
+
 
 ## 1.2. Mission Statement
 
@@ -10,8 +19,17 @@
 ## 1.3. Products and Services
 
 - Creative Digital Campaigns
-- Web + Branding (not priority but necessary for integrated 
-solution)- Integration for events- Viral promotion- Interactive, engagement, display thingies- Workshops – WebGL, Three, js stuff
+
+- Web + Branding (not priority but necessary for integrated 
+solution)
+
+- Integration for events
+
+- Viral promotion
+
+- Interactive, engagement, display thingies
+
+- Workshops – WebGL, Three, js stuff
 
 ## 1.4. Financial Forecast
 
