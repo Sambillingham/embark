@@ -23,3 +23,7 @@
 4. what is the budget you have for this type of advertising?
 5. Is this something you would be interested in? And for how much?
 
+# Generic web design company questions
+---
+
+1. 
