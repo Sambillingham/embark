@@ -4,21 +4,19 @@
 1.2. Mission Statement
 1.3. Products and Services
 
-
 2. Business Description
-2.1. The Company's Mission
-2.2. Management Team and Key Personnel
-2.3. Services
+2.1. Company's Aims
+2.2. Management Team
+2.3. Products and Services
 2.4. Business Structure
 2.5. Legal
 
 3. Market Research
 3.1. Market Description
-3.2. Segmentation, Targeting and Positioning
-3.3. Competitor Analysis
-3.4. Competitive Advantages
-3.5. PESTEL Analysis
-3.6. SWOT Analysis
+3.2. Competitor Analysis
+3.3. Competitive Advantages
+3.4. PEST Analysis
+3.5. SWOT Analysis
 
 4. Business Strategy
 4.1. Marketing
@@ -35,20 +33,19 @@
 5.8. Training
 
 6. Finance Forecasting
-risks and assumptions
-start up costs
-12 month
-3/5 years (to show growth)
-1.4. Financial Forecast
-1.5. Financing Requirements
-6.7. Funds Required and Timing
-6.8. Funding Options
+6.1. Risks and Assumptions
+6.2. Start-up costs (Up to opening day)
+6.3. Forecasts (year 1+3)
+6.4. Financial Requirements
+6.5. Funding Options
 
 7. Business Controls
-7.1. Accounting System
-7.2. Customer Relationship Management
+7.1. Accounts
+7.2. Customer Relationship
 7.3. Quality Control
 7.4. Professional and Advisory Support
 7.5. Long-Term Goals
 7.6. Growth management
 7.7. Risks and Assumptions
+
+8. Appendices
