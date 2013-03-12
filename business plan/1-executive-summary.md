@@ -2,15 +2,14 @@
 
 ## 1.1. Company Description
 
-Innovation and creative thinking every single time.
+EMBARK is a digital marketing campaigns company that promotes products, services, brands and events. We use the latest technology in creative ways enabling our clients to reach their customers in unique, engaging and interactive ways.
 
-Inonvative and creative every single time.
+Our services are aimed primarily, but not exclusively, at businesses in the Southwest.
 
-innovation and creation done the right way.
-
-instinctively creative.
-
-
+- Who are we?
+- What do we do?
+- Who do we do it for?
+- Why would clients choose us? (USP's)
 
 ## 1.2. Mission Statement
 
@@ -18,19 +17,10 @@ instinctively creative.
 
 ## 1.3. Products and Services
 
-- Creative Digital Campaigns
+Embark's services are split into three main categories; *Digital*, *Experiential*, and *Production*.  These categories have been created in order to help the client choose a solution that is right for them.  Clients do not have to commit to a specific package, but instead, can choose the products and services that suit their needs.
 
-- Web + Branding (not priority but necessary for integrated 
-solution)
+**Digital** - Encompasses all the services clients may need for creating tailored online campaigns.  This includes microsites, landing pages, responsive websites, data visualisations and applications.
 
-- Integration for events
+**Experiential** - Embark offers bespoke digital solutions, such as interactive installations, for experiential marketing campaigns and events.  Clients can either come to us with an idea, or alternatively we can generate an innovative solution that best fits their needs.
 
-- Viral promotion
-
-- Interactive, engagement, display thingies
-
-- Workshops – WebGL, Three, js stuff
-
-## 1.4. Financial Forecast
-
-## 1.5. Financing Requirements
+**Production** - Covers the video production services Embark provides. Demonstrations, documentaries, or animations are just a few examples of the types of video we can produce.
