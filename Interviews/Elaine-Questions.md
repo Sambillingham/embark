@@ -23,7 +23,32 @@
 4. what is the budget you have for this type of advertising?
 5. Is this something you would be interested in? And for how much?
 
-# Generic web design company questions
+-costs
+-jobs that are available
+-size of companies that ask for work
+-how long they take
+-the standard of the current web development in the south west
+
+
+# GOSS questions
 ---
 
-1. 
+1. Size and types of companies you work for
+2. How do you get most of your work?
+3. What networking events do you recommend?
+4. Have you ever been asked to do more than web design? Such as one  off digital campaigns.
+5. 
+
+# Altitude questions
+---
+
+1. Size and types of companies you work for
+2. How do you get most of your work?
+3. What networking events do you recommend?
+4. Have you ever been asked to do more than web design? Such as one  off digital campaigns.
+
+
+# Mutant Labs questions
+---
+
+1. How many sections of the company are there?
