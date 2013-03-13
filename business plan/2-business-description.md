@@ -30,8 +30,7 @@
 ### Chris Packard
 
 **Technical Director**
-
-[Needs work] Back-end developer… Experienced in multiple programming languages, both client-side and server-side, including .NET and PHP.
+Chris is a developer with a solid knowledge of multiple languages including Java, JavaScript, PHP and ASP.NET Razor. He has a varied experience in web design, android and web applications, HTML5 games, and back end development for touch screen kiosks. Chris is logically minded, bringing organisation and a methodical structure to the team.
 
 ### Phil Rose
 
