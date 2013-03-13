@@ -9,7 +9,7 @@
 
 **Chris** So for every situation, is there some sort of workshop  involved?
 
-**Louise** For the majority it will be either a workshop, but for the more general sessions, they will do more presentations followed by an activity. We find the for specific subjects, it's much easier to do a workshop because we can show exactly what the university offers for that subject. 
+**Louise** For the majority it will be either a workshop, but for the more general sessions, they will do more presentations followed by an activity. We find that for specific subjects, it's much easier to do a workshop because we can show exactly what the university offers for that subject. 
 
 **Chris** So are most, if not all, of the workshops run by students?
 
@@ -23,7 +23,7 @@
 
 **Louise** Yes, absolutely. We quite often have a lunch or break period where students are in a space all together. Everyone loves a gimmick, and for us that is a major thing. That is why merchandising goes down so well. We always ALWAYS get asked for things like Plymouth University branded pens. So anything that is a quick hit or that students love is great. We usually work with students from around the ages of 13-17. They love anything that's a big hit, so actually that sort of thing would be great, as long as it has a message that sticks. Because for us it is really important that, although it does not necessarily have to be life changing, it has to be something that they will remember  for a reason. For us there would absolutely be scope for this type of thing. We spend a lot of the time in the Roland Levindsky crosspoint space, so an installation there would be great. Also, we have lots and lots of different workshops going on and they are subject specific, but if there was something that could be used and changed for each subject, that would be good.
 
-**Sam** There's also course websites that we anted to ask about. Our course has it's own website, but we wasn't sure how many other courses have that type of thing. And I was wondering if give us an insight as to whether this is something that other courses would be interested in.
+**Sam** There's also course websites that we wanted to ask about. Our course has it's own website, but we wasn't sure how many other courses have that type of thing. And I was wondering if you could give us an insight as to whether this is something that other courses would be interested in.
 
 **Louise** We're currently working on the *'Outreach'* part of the website. The university are currently in the process of changing the format of their website. But I don't think many other courses do have a website that we can send people to and certainly that is a big issue. So if we had somewhere to send people that would be amazing.
 
@@ -31,11 +31,9 @@
 
 **Louise** I think you'll have to talk to the branding people about that. I know that we [Outreach] are not allowed to stretch outside of the [Plymouth University] brand. So we can't have, for example, an 'Arts faculty' website, unless it is plymouth.ac.uk/something, because we have to be kept in that brand. We have to be very careful about the branding. We are looking into having our own branding under the Plymouth University brand to give us more of an identity.
 
-**Sam** In terms of how where go from here, do you have any ideas on how we might be of service to the university as a whole.
+**Sam** In terms of where go from here, do you have any ideas on how we might be of service to the university as a whole.
 
-**Louise** I would need to know exactly what you can do, and them if I send that around my department, I'm sure some ideas will come up as to how we can utilise you and for the sorts of things we need as a whole. It would be nice if it was something that wasn't just Arts specific. I'm willing to try it out as Arts first, but if this is something that is going to work for us, then obviously the whole department will want in. We've got four different faculties. We have six different strands, so this could be something that benefits everybody. So if the message was quite generic it would be good if we could use it in a few different areas. So, if you could show me something in the form of some ideas, that would be great.
-
-**Chris** Brilliant. Thank you very much for your time, you've been very helpful
+**Louise** I would need to know exactly what you can do, and then if I send that around my department, I'm sure some ideas will come up as to how we can utilise you and for the sorts of things we need as a whole. It would be nice if it was something that wasn't just Arts specific. I'm willing to try it out as Arts first, but if this is something that is going to work for us, then obviously the whole department will want in. We've got four different faculties. We have six different strands, so this could be something that benefits everybody. So if the message was quite generic it would be good if we could use it in a few different areas. So, if you could show me something in the form of some ideas, that would be great.
 
 ## Appendix B
 
