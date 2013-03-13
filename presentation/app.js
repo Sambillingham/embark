@@ -13,11 +13,11 @@
     });
 
 
-    // app.get('/look', function (req, res) {
+    app.get('/controls', function (req, res) {
 
-    //         res.sendfile(__dirname + '/look.html');
+             res.sendfile(__dirname + '/controls.html');
 
-    // });
+    });
 
     app.get('/', function (req, res) {
 
@@ -30,8 +30,10 @@
     io.sockets.on('connection', function (socket) {
 
         
-        socket.on('event', function (data) {
+        socket.on('gravity', function () {
 
+            socket.broadcast.emit('change gravity');
+            console.log('emiting gravity');
         });
 
 
