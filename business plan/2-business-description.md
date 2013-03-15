@@ -5,6 +5,18 @@
 [general aims]
 [SMART objectives]
 
+## Risks and Assumptions
+
+- We will not be paid for the first two months living on money form our parents, current overdraft and student loans
+- We can live on reduced wages as we can all share accommodation.
+- Each founder will add £300 into the business as an initial investment which will then be repaid in the final month of the first year.
+- we have our own equipment in for the forms of computers, camera prototyping gear ( Arduino & rawberry Pie), software.
+- We each have personal telephone lines which will be used to talk to business clients.
+- Personal Cars can be used for transport.
+- After speaking with contacts at the university we are assuming we have five promotional jobs as-well as three larger campaigns spread across the first year with the potential to be an annual recurrence if successful.
+- With connections made through Elaine Bud we are confident we are able to secure at minimum two campaigns within this network.
+
+
 ### Aims for Five Years Time
 
 * To have gained national recognition in the form of awards for websites, innovation and digital marketing.
@@ -83,6 +95,11 @@ We have chosen 'companiesmadesimple', an approved partner of companies house, sp
 It is important that Embark gains insurance cover for all possibilities, although it may not all be obligatory, any large interruption could put the company out of business. Therefore it is safer to pay the monthly insurance charges rather than any larger charges that Embark may incur should the insurance not be in place.
 
 
+
+# T & C's
+use a template how much?
+
+# Shareholder agreement
 
 
 
