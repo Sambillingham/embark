@@ -12,4 +12,3 @@
 
 ## 7.6. Growth management
 
-## 7.7. Risks and Assumptions
