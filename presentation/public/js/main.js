@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    var socket = io.connect('http://141.163.148.11:8080');
+    var socket = io.connect('http://141.163.234.12:8080');
 
          socket.on('connect', function () {
                 console.log('connection Made');

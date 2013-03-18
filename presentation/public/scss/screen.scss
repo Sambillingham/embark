@@ -2,8 +2,9 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-
+@import url(http://fonts.googleapis.com/css?family=Damion);
 @import "compass/reset";
+@import "compass";
 
 body {
 
@@ -25,8 +26,33 @@ body {
 	font-size: 24px;
 }
 
+.embark-logo {
 
-.reset {
-
-	
+	height: 150px;
+	width: 300px;
 }
+.static-logo {
+
+	height: 50px;
+	width: 200px;
+	position: absolute;
+	left: 25px;
+	bottom: 25px;
+}
+.team-member {
+
+	float: left;
+	padding: 10px;
+}
+.team-photo {
+	height: 200px;
+	width: 200px;
+
+	@include border-radius(100%)
+}
+.team {
+
+	width: 100%;
+	margin: 0 auto;
+}
+
