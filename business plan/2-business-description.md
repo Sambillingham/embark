@@ -1,9 +1,23 @@
 # Business Description
 
-## 2.1. Company's Aims
+## 2.1. Risks and Assumptions
 
-[general aims]
-[SMART objectives]
+- We will not be paid for the first two months living on money form our parents, current overdraft and student loans
+- We can live on reduced wages as we can all share accommodation.
+- Each founder will add £300 into the business as an initial investment which will then be repaid in the final month of the first year.
+- we have our own equipment in for the forms of computers, camera prototyping gear (Arduino & Raspberry Pi), software.
+- We each have personal telephone lines which will be used to talk to business clients.
+- Personal Cars can be used for transport.
+- After speaking with contacts at the university we are assuming we have five promotional jobs as-well as three larger campaigns spread across the first year with the potential to be an annual recurrence if successful.
+- With connections made through Elaine Bud we are confident we are able to secure at minimum two campaigns within this network.
+- We have connections though placement year/ family/ friends who will be able to send work our way.
+
+## 2.2. Company's Aims
+
+- To be recognisable as a creative agency and digital campaigns company.
+- To be recommended as a service within the South West Region.
+- To create innovative and original digital campaigns.
+
 
 ### Aims for Five Years Time
 
@@ -19,20 +33,23 @@
 
 * All of these developments will have gained us recognition as regional leaders in the production of creative marketing campaigns.
 
-## 2.2. Management Team
+## 2.3. Management Team
 
 ### Sam Billingham
 
 **Managing Director**
 
-[Needs work] Sam is passionate about new technologies and the way they integrate into everyday life. He ensures every project is as innovative and unique as possible.  Sam enjoys learning and researching about what’s new in the digital sector, and plays a large role in making Embark the cutting-edge digital marketing campaigns company.
+Sam is passionate about new technologies and the way they integrate into everyday life, he ensures every project is as innovative and unique as possible. Sam enjoys learning and researching about what’s new in the digital sector, and plays a large role in making Embark the cutting-edge digital marketing campaigns company. As a creative developer with skills in both development and design Sam is able to integrate closely with Chris and Phil and work on either area when necessary. 
 
 ### Chris Packard
 
 **Technical Director**
+
 Chris is a developer with a solid knowledge of multiple languages including Java, JavaScript, PHP and ASP.NET Razor. He has a varied experience in web design, android and web applications, HTML5 games, and back end development for touch screen kiosks. Chris is logically minded, bringing organisation and a methodical structure to the team.
 
 ### Phil Rose
+
+**Creative Director**
 
 Phil has extensive knowledge of web technologies and is proficient in user experience and interaction design.  With previous experience in online marketing, web design and front-end development, Phil brings the creative insight to the team.
 
@@ -48,11 +65,11 @@ Based on our previous experience we witnessed how many businesses are stuck with
 
 Our vision for Embark is to create a company that encourages creativity and 'out-of-the-box' thinking, taking the latest technologies and using them in engaging ways in order to market brands, products, services and events.
 
-## 2.3. Specific Services
+## 2.4. Specific Services
 
 [more specific description of services offered]
 
-## 2.4. Business Structure
+## 2.5. Business Structure
 
 We have chosen to setup Embark as a Limited Liability Company (LLC), making Embark a legal identity in its own right.
 
@@ -62,13 +79,17 @@ Rather than generating all of the necessary legal documents and accounts for the
 
 We have chosen 'companiesmadesimple', an approved partner of companies house, specifically the 'Silver' package they provide for £50.  Our setup includes all required documents, a Certificate of Incorporation, Memorandum and Articles of Association.  This registers us with companies house and allows us to begin trading as soon as possible.
 
-## 2.5. Legal
+## 2.6. Legal
 
-[time with solicitor]
-[office insurance]
-[loss of earnings insurance]
-[data & server backup systems]
-[data protection act]
+- [time with solicitor]
+
+- [office insurance]
+
+- [loss of earnings insurance]
+
+- [data & server backup systems]
+
+- [data protection act]
 
 **Public Liability Insurance** - Protecting Embark in the event of causing damage to property, or physical harm, injury or death to a third party as part of business activities conducted by Embark.
 
@@ -82,7 +103,8 @@ We have chosen 'companiesmadesimple', an approved partner of companies house, sp
 
 It is important that Embark gains insurance cover for all possibilities, although it may not all be obligatory, any large interruption could put the company out of business. Therefore it is safer to pay the monthly insurance charges rather than any larger charges that Embark may incur should the insurance not be in place.
 
+**T&C's** - As part of our setup we are using a free template for our terms and conditions and privacy policy that will relate to a general digital agency. We can have a solicitor draw up a specific set of terms and conditions as-well as a privacy policy when we deem in necessary in the future.
 
-
+**Shareholder agreement** - It is important for Embark to have a possessional 3 person shareholder agreement for limited company written up by a solicitor before we start operations. Our initial cost for our shareholder agreement is £500 paid before we start business, shown in the financial forecast.
 
 

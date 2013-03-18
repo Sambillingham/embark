@@ -1,0 +1,100 @@
+@font-face {
+    font-family: 'DejaVuSerifCondensed';
+    src: url('../fonts/DejaVuSerifCondensed-webfont.eot');
+    src: url('../fonts/DejaVuSerifCondensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DejaVuSerifCondensed-webfont.woff') format('woff'),
+         url('../fonts/DejaVuSerifCondensed-webfont.ttf') format('truetype'),
+         url('../fonts/DejaVuSerifCondensed-webfont.svg#DejaVuSerifCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'DejaVuSerifCondensedIt';
+    src: url('../fonts/DejaVuSerifCondensed-Italic-webfont.eot');
+    src: url('../fonts/DejaVuSerifCondensed-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DejaVuSerifCondensed-Italic-webfont.woff') format('woff'),
+         url('../fonts/DejaVuSerifCondensed-Italic-webfont.ttf') format('truetype'),
+         url('../fonts/DejaVuSerifCondensed-Italic-webfont.svg#DejaVuSerifCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* ============================== */
+/* ! Layout for desktop version   */
+/* ============================== */
+
+	body {
+		background: url('../img/embark_bg2.png');
+		background-position: center center;
+		font-family: "DejaVuSerifCondensedIt", Helvetica, Arial, sans-serif;
+		-webkit-font-smoothing: antialiased;
+	}
+
+	header {
+		padding: 9.5% 0%;
+	}
+
+	header h1 {
+		background: url('../img/embark_logo.png');
+		display: block;
+		height: 241px;
+		width: 241px;
+		margin: 0 auto 50px;
+		opacity: 0.8;
+	}
+
+	header h2 {
+		font-family: "DejaVuSerifCondensedIt", Helvetica, Arial, sans-serif;
+		font-weight: normal;
+		-webkit-font-smoothing: antialiased;
+		font-size: 14pt;
+		text-align: center;
+		margin: 0 auto 30px;
+	}
+
+	header p {
+		-webkit-font-smoothing: antialiased;
+		font-size: 12pt;
+		line-height: 180%;
+		text-align: center;
+		max-width: 700px;
+		margin: 0 auto;
+	}
+
+	.copyright {
+		color: #666;
+		font-size: 9pt;
+		text-align: center;
+		margin: 30px auto 0;
+	}
+
+	
+
+/* ============================= */
+/* ! Layout for mobile version   */
+/* ============================= */
+
+@media handheld, only screen and (max-width: 767px) {
+
+	body {
+		background: #333;
+	}
+
+}
+
+
+/* ========================================== */
+/* ! Provide higher res assets for iPhone 4   */
+/* ========================================== */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) { 
+
+/*	.logo {
+		background: url(logo2x.jpg) no-repeat;
+		background-size: 212px 303px;
+	}*/
+
+}

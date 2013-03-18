@@ -5,11 +5,12 @@
 1.3. Products and Services
 
 2. Business Description
-2.1. Company's Aims
-2.2. Management Team
-2.3. Products and Services
-2.4. Business Structure
-2.5. Legal
+2.1. Risks and Assumptions
+2.2. Company's Aims
+2.3. Management Team
+2.4. Products and Services
+2.5. Business Structure
+2.6. Legal
 
 3. Market Research
 3.1. Market Description
