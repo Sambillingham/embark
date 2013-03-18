@@ -8,6 +8,16 @@
 
 ## 7.4. Professional and Advisory Support
 
+Josh Vincent (Accountant)
+
+Elaine Budd (Events Manager)
+
+Nicola Rose (Tax Consultant)
+
+Laura Billingham (Graduate of BA Events Management)
+
+Liz Cobb (Lawyer)
+
 ## 7.5. Long-Term Goals
 
 ## 7.6. Growth management
