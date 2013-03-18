@@ -120,19 +120,6 @@ Alex
 
 ## Appendix E
 
-### Emails from GOSS Interactive
-
-[insert GOSS emails here]
-
-
-waiting on Elaine
-waiting on GOSS
-waiting on Cookie
-
-email louise
-
-## Appendix F
-
 ### Transcript of interview with Elaine Budd - Project Manager, Prensus Limited
 
 **Elaine** - Ok, tell me what you're up to and what you're trying to do and I'll do my best to help, if I can
@@ -202,4 +189,26 @@ email louise
 **Elaine** - Ok well let me get some stuff on paper, we'll have an email to and fro, and we'll see where we go from there.
 
 **Chris** - Ok, well thank you very much. Hopefully we speak to you soon.
+
+## Appendix F
+
+### Business Insurance
+
+[insert both images of business insurance]
+
+## Appendix G
+
+### Google Drive Storage
+
+[insert image of google drive storage]
+
+## Appendix H
+
+### Google Apps for business
+
+[insert image of google apps for business]
+
+waiting on Elaine
+waiting on Cookie
+email louise
 
