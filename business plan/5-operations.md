@@ -10,6 +10,7 @@ We are using Git as our version control system while using Github for a remote b
 
 Vimeo will be used to host our finalised video production work, A Vimeo Plus account costs approximately £6 a month varying with USD exchange rate. A Vimeo Plus account allows for the increased   available upload amount that we will require when creating video productions both for our own publicity and for client work.
 
+
 When work is completed and approved with clients we will us a managed VPS service to host the work we have created. A managed system still allows us additional control where we may need out of the ordinary web services for innovative projects but takes away the haste and time restraints of managing our own server and the technical difficulties and responsibilities that comes with that.
 
 ## 5.2. Premises
@@ -22,7 +23,7 @@ Embark will be located in the city of Plymouth within the United Kingdom. Our pr
 
 ## 5.4. Hours of Operation
 
-Primary hours of work will be regular offices hours 9am - 5pm, this allows us to accommodate our clients and other business that we will need to be in regular contact with. We understand that our hours may vary on occasion and may extend past the 8 hours a day and 9-5 timeframe but aiming to still working under 48 hours a week per staff member.
+Primary hours of work will be regular offices hours 9∫am - 5pm, this allows us to accommodate our clients and other business that we will need to be in regular contact with. We understand that our hours may vary on occasion and may extend past the 8 hours a day and 9-5 timeframe but aiming to still working under 48 hours a week per staff member.
 
 ## 5.5. Equipment
 
