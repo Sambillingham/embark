@@ -27,7 +27,7 @@
 
 **Sam**: As managing Director I work to keep Embark on the cutting edge by keeping up-to-date with current technologies, web trends and news. Confident in design and development I am able to work both on the technical development of projects as well as creative design. After my placement year in Australia working both as an Online specialist and in content creation, I am well trained in high quality video production and will take the lead in this area.
 
-**Phil** My role as Creative Director [lends itself] to web design and front end development…. ux stuff.
+**Phil** My role as Creative Director is to lead projects in terms of design and functionality.
 
 # Market research
 
