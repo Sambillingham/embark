@@ -18,7 +18,7 @@
 
 **Chris**: Experiential focuses on interaction devices, as well as installations to be placed in public spaces. These engage with participants in a unique way, whether this be [an installation that translates people's footsteps into a visualisation on a big screen] or [a talking head that reacts to the motion of people walking past]. Our interaction devices are built on internet-of-things technologies, using Arduino and Raspberry pie platforms. Each installation will be tailored for our clients, [enabling the maximum publicity possible] for the product, service or event they are promoting.
 
-**Sam**: Production. Our third area is video production. We are able to provide quality production services offering documentaries, interviews and showcase style videos as well as motion graphics and visual effects.
+**Sam**: Our third area is video production. We are able to provide quality production services offering documentaries, interviews and showcase style videos as well as motion graphics and visual effects.
 
 
 ## Slide 4 - Who are we
@@ -45,9 +45,6 @@
 
 we aim to bing the wow factor by combing these three aspects into all of our projects.
 
-# Finance
-
-**Chris**:
 
 # Operations 
 
@@ -65,12 +62,17 @@ We've decided to use a managed VPS for hosting of our client work and projects, 
 *equipment*
 We are able to begin work right away as we all have our own computers as well as a DSLR and prototyping equipment in the form of Arduino and Raspberry pies. We may need to rent some equipment
 
+# Finance
+
+**Chris**:
+
+**sam**: 3 types of packages
+
 
 # Questions
 
-# More about embark
-Risk and assumptions
-legal structure
-insurance
-aims
-Networking and Marketing
+# Networking
+
+	- events digpen
+- lousie,  bud
+guaranteed work.
