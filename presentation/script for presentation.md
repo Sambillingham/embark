@@ -10,11 +10,15 @@
 
 **Sam**: As a creative campaigns company, we create experiences for our clients that engage their customers. We have decided to split our services onto three areas to make it easier for clients to know what they need and what we can offer.
 
-**Phil**: Digital encompasses our online campaigns. It focuses on [the] aspects of responsive web design, data visualisations and applications. Our landing pages and micro-site campaigns [will engage with] our clients' customers [to attract them to the] product, service or event being promoted. [Creating realtime web applications will interact with customers in a different way] [how?]. Our data visualisations will create a new online experience for it's audience.
+**Phil**: 
+- Our digital services consist of all the things a client may need in order to create a tailored online campaign.
+- We design and build websites, including responsive sites that can adapt to all devices, for clients looking to sell products, services, or to promote a brand or event online.
+- We have experience with technologies such as Node.js and MQTT, which provide us with a good platform for developing realtime data visualisations and web applications.
+- We can also develop applications for android and iOS devices as part of a digital campaign.
 
 **Chris**: Experiential focuses on interaction devices, as well as installations to be placed in public spaces. These engage with participants in a unique way, whether this be [an installation that translates people's footsteps into a visualisation on a big screen] or [a talking head that reacts to the motion of people walking past]. Our interaction devices are built on internet-of-things technologies, using Arduino and Raspberry pie platforms. Each installation will be tailored for our clients, [enabling the maximum publicity possible] for the product, service or event they are promoting.
 
-**Sam**: Production. Our third area is video production. We are able to provide quality production services offering documentaries, interviews and showcase style videos as well as motion graphics and visual effects .
+**Sam**: Production. Our third area is video production. We are able to provide quality production services offering documentaries, interviews and showcase style videos as well as motion graphics and visual effects.
 
 
 ## Slide 4 - Who are we
