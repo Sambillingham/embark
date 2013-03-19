@@ -2,15 +2,15 @@
 
 ## 2.1. Risks and Assumptions
 
-- We will not be paid for the first two months living on money form our parents, current overdraft and student loans
-- We can live on reduced wages as we can all share accommodation.
+- Founders will not be paid for the first two months living on money from parents, current overdraft and student loans
+- Founders are able to live on reduced wages as the costs associated with accommodation can be shared.
 - Each founder will add £300 into the business as an initial investment which will then be repaid in the final month of the first year.
-- we have our own equipment in for the forms of computers, camera prototyping gear (Arduino & Raspberry Pi), software.
-- We each have personal telephone lines which will be used to talk to business clients.
+- The company has equipment in for the forms of computers, camera prototyping gear (Arduino & Raspberry Pi), software.
+- The management team have personal telephone lines which will be used to talk to business clients.
 - Personal Cars can be used for transport.
-- After speaking with contacts at the university we are assuming we have five promotional jobs as-well as three larger campaigns spread across the first year with the potential to be an annual recurrence if successful.
-- With connections made through Elaine Bud we are confident we are able to secure at minimum two campaigns within this network.
-- We have connections though placement year/ family/ friends who will be able to send work our way.
+- After speaking with contacts at the university it is assumed that Embark will have five promotional jobs as-well as three larger campaigns spread across the first year with the potential to be an annual recurrence if successful.
+- With connections made through Elaine Bud founding members are confident that the company will be able to secure at minimum two campaigns within this network.
+- Connections throughout management teams' placement years/ family/ friends who will be able to aid the company in finding work.
 
 ## 2.2. Company's Aims
 
@@ -23,15 +23,15 @@
 
 * To have gained national recognition in the form of awards for websites, innovation and digital marketing.
 
-* We expect to have taken on more employees to fill dedicated roles in design, development, administration, and to potentially have a position for a regular intern.
+* The company expects to have taken on more employees to fill dedicated roles in design, development, administration, and to potentially have a position for a regular intern.
 
 * Each employee will have access to industry standard hardware and software specific to their role.
 
 * To have relocated to an area with greater client and financial potential.
 
-* While it is not a priority, we are open to taking on work for international clients and would hope to have done so by this point.
+* While it is not a priority, Embark is open to taking on work for international clients and would hope to have done so by this point.
 
-* All of these developments will have gained us recognition as regional leaders in the production of creative marketing campaigns.
+* All of these developments will have gained Embark recognition as regional leaders in the production of creative marketing campaigns.
 
 ## 2.3. Management Team
 
@@ -61,9 +61,9 @@ Being on the Digital Art and Technology course at Plymouth University has provid
 
 Each member has produced work of a professional standard for companies such as CVC Network, Eclipse Internet, KCOM Group, and Liquid Digital.
 
-Based on our previous experience we witnessed how many businesses are stuck with outdated systems due to limitations of time or funding.  This often results in corner-cutting and therefore products and services are less effective as a result.  With Embark we are starting from scratch, so we are in a position to create a strategy, setting up a company that is as scalable and future proof as possible.  This is important in the ever-evolving digital sector as technological advancements are so frequent.
+Based on the previous experience of founding members who witnessed how many businesses are stuck with outdated systems due to limitations of time or funding.  This often results in corner-cutting and therefore products and services are less effective as a result.  Embark is a chance to start from scratch, putting it in a position to create a strategy, setting up a company that is as scalable and future proof as possible.  This is important in the ever-evolving digital sector as technological advancements are so frequent.
 
-Our vision for Embark is to create a company that encourages creativity and 'out-of-the-box' thinking, taking the latest technologies and using them in engaging ways in order to market brands, products, services and events.
+The Embark vision is to create a company that encourages creativity and 'out-of-the-box' thinking, taking the latest technologies and using them in engaging ways in order to market brands, products, services and events.
 
 ## 2.4. Specific Services
 
@@ -71,13 +71,13 @@ Our vision for Embark is to create a company that encourages creativity and 'out
 
 ## 2.5. Business Structure
 
-We have chosen to setup Embark as a Limited Liability Company (LLC), making Embark a legal identity in its own right.
+Founders have chosen to setup Embark as a Limited Liability Company (LLC), making Embark a legal identity in its own right.
 
 First and foremost being an LLC is important because of the limited liability that it inherently offers, keeping potential loss to only the original investment made.  Being an LLC allows Embark to be set up with three initial directors, these being Sam Billingham, Chris Packard and Phil Rose, all sharing equal rights to the company.
 
-Rather than generating all of the necessary legal documents and accounts for the company ourselves, we will hire the help of a professional formation agent (costs included in 6. Finance), to ensure no costly errors are made and to save time.
+Rather than generating all of the necessary legal documents and accounts for the company ourselves, a professional formation agent will be hired (costs included in 6. Finance), to ensure no costly errors are made and to save time.
 
-We have chosen 'companiesmadesimple', an approved partner of companies house, specifically the 'Silver' package they provide for £50.  Our setup includes all required documents, a Certificate of Incorporation, Memorandum and Articles of Association.  This registers us with companies house and allows us to begin trading as soon as possible.
+'companiesmadesimple' has been selected, an approved partner of companies house, specifically the 'Silver' package they provide for £50.  Setup includes all required documents, a Certificate of Incorporation, Memorandum and Articles of Association.  This registers Embark with companies house so the company can begin trading as soon as possible.
 
 ## 2.6. Legal
 
