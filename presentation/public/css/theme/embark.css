@@ -15,11 +15,11 @@
 
 @font-face {
     font-family: 'proxima_nova_rgbold';
-    src: url('../fonts/proximanova-bold-webfont.eot');
-    src: url('../fonts/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/proximanova-bold-webfont.svg#proxima_nova_rgbold') format('svg'),
-         url('../fonts/proximanova-bold-webfont.woff') format('woff'),
-         url('../fonts/proximanova-bold-webfont.ttf') format('truetype');
+    src: url('../../fonts/proximanova-bold-webfont.eot');
+    src: url('../../fonts/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/proximanova-bold-webfont.svg#proxima_nova_rgbold') format('svg'),
+         url('../../fonts/proximanova-bold-webfont.woff') format('woff'),
+         url('../../fonts/proximanova-bold-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
@@ -27,11 +27,11 @@
 
 @font-face {
     font-family: 'proxima_nova_rgregular';
-    src: url('../fonts/proximanova-regular-webfont.eot');
-    src: url('../fonts/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/proximanova-regular-webfont.svg#proxima_nova_rgregular') format('svg'),
-         url('../fonts/proximanova-regular-webfont.woff') format('woff'),
-         url('../fonts/proximanova-regular-webfont.ttf') format('truetype');
+    src: url('../../fonts/proximanova-regular-webfont.eot');
+    src: url('../../fonts/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/proximanova-regular-webfont.svg#proxima_nova_rgregular') format('svg'),
+         url('../../fonts/proximanova-regular-webfont.woff') format('woff'),
+         url('../../fonts/proximanova-regular-webfont.ttf') format('truetype');
          
     font-weight: normal;
     font-style: normal;
@@ -40,11 +40,11 @@
 
 @font-face {
     font-family: 'proxima_nova_ltbold';
-    src: url('../fonts/proximanova-semibold-webfont.eot');
-    src: url('../fonts/proximanova-semibold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/proximanova-semibold-webfont.svg#proxima_nova_ltbold') format('svg'),
-         url('../fonts/proximanova-semibold-webfont.woff') format('woff'),
-         url('../fonts/proximanova-semibold-webfont.ttf') format('truetype');
+    src: url('../../fonts/proximanova-semibold-webfont.eot');
+    src: url('../../fonts/proximanova-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/proximanova-semibold-webfont.svg#proxima_nova_ltbold') format('svg'),
+         url('../../fonts/proximanova-semibold-webfont.woff') format('woff'),
+         url('../../fonts/proximanova-semibold-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
@@ -55,12 +55,12 @@
  *********************************************/
 body {
   background: #f7f2d3;
-  background: -moz-radial-gradient(center, circle cover, white 0%, #d4d4d4 100%);
+  /*background: -moz-radial-gradient(center, circle cover, white 0%, #d4d4d4 100%);
   background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, white), color-stop(100%, #d4d4d4));
   background: -webkit-radial-gradient(center, circle cover, white 0%, #d4d4d4 100%);
   background: -o-radial-gradient(center, circle cover, white 0%, #d4d4d4 100%);
   background: -ms-radial-gradient(center, circle cover, white 0%, #d4d4d4 100%);
-  background: radial-gradient(center, circle cover, white 0%, #d4d4d4 100%);
+  background: radial-gradient(center, circle cover, white 0%, #d4d4d4 100%);*/
   background-color: #f7f3de; }
 
 .reveal {
