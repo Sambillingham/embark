@@ -108,7 +108,30 @@ body {
 
  }
 
+  .reveal ul {
+    margin-top: 30px;
+    text-align: center;
+    list-style: none;
+    font-family: 'proxima_nova_rgregular', Helvetica, Arial, sans-serif;
+    font-size: 0.6em;
+     line-height: 120%;
 
+ }
+
+ .reveal li {
+
+  margin-bottom: 15px;
+ }
+
+.reveal .mission {
+
+  font-size: 1em;
+  font-family: proxima_nova_ltbold, Helvetica, Arial, sans-serif;
+}
+/*.quote {
+
+  font-size: 4em;
+}*/
 /*********************************************
  * LINKS
  *********************************************/
