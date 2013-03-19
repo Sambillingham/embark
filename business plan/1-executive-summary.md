@@ -19,7 +19,7 @@ Our services are aimed primarily, but not exclusively, at businesses in the Sout
 
 Embark's services are split into three main categories; *Digital*, *Experiential*, and *Production*.  These categories have been created in order to help the client choose a solution that is right for them.  Clients do not have to commit to a specific package, but instead, can choose the products and services that suit their needs.
 
-**Digital** - Encompasses all the services clients may need for creating tailored online campaigns.  This includes microsites, landing pages, responsive websites, data visualisations and applications.
+**Digital** - Encompasses all the services clients may need for creating tailored online campaigns.  This includes micro-sites, landing pages, responsive websites, data visualisations and applications.
 
 **Experiential** - Embark offers bespoke digital solutions, such as interactive installations, for experiential marketing campaigns and events.  Clients can either come to us with an idea, or alternatively we can generate an innovative solution that best fits their needs.
 
