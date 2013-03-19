@@ -63,7 +63,7 @@ we plan to use git as our version control system, and Github to allow us to coll
 We've decided to use a managed VPS for hosting of our client work and projects, A managed system still allows us additional control where we may need for innovative projects but takes away the haste and time restraints of managing our own server and the responsibilities that comes with that.
 
 *equipment*
-We are able to begin work right away as we all have our own computers as well as a DSLR and prototyping equipment in the form of Arduino and Raspberry pies 
+We are able to begin work right away as we all have our own computers as well as a DSLR and prototyping equipment in the form of Arduino and Raspberry pies. We may need to rent some equipment
 
 
 # Questions
@@ -73,3 +73,4 @@ Risk and assumptions
 legal structure
 insurance
 aims
+Networking and Marketing
