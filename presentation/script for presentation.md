@@ -23,7 +23,7 @@
 
 ## Slide 4 - Who are we
 
-**Chris**: As Technical Director I am proficient in developing both our web services and physical interaction devices and experiences. With a years experience in London and capabilities in multiple programming languages I am able to …
+**Chris**: As Technical Director I have developing roles in both our web services and our physical interaction devices and experiences. With a years experience in London working on the back end development of touch screen kiosks and capabilities in multiple programming languages I am able to develop functional interactive devices for our clients.
 
 **Sam**: As managing Director I work to keep Embark on the cutting edge by keeping up-to-date with current technologies, web trends and news. Confident in design and development I am able to work both on the technical development of projects as well as creative design. After my placement year in Australia working both as an Online specialist and in content creation, I am well trained in high quality video production and will take the lead in this area.
 
