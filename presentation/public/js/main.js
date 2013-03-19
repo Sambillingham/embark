@@ -18,6 +18,8 @@ $(document).ready(function() {
 
                         }, 10000);
 
+                        
+
                 });
 
                 socket.on('disconnect', function () {
@@ -60,3 +62,4 @@ var Gravity = {
 
             }
 }
+

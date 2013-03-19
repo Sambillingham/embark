@@ -6,10 +6,12 @@
 @import "compass/reset";
 @import "compass";
 
+
 body {
 
-	background-color: #9f3d3d;
+	background-color: #ec6868;
 }
+
 
 
 .grav-button {
@@ -42,7 +44,7 @@ body {
 .team-member {
 
 	float: left;
-	padding: 10px;
+	padding: 40px;
 }
 .team-photo {
 	height: 200px;
@@ -55,4 +57,31 @@ body {
 	width: 100%;
 	margin: 0 auto;
 }
+
+.product {
+
+	float: left;
+	width: 260px;
+	padding: 30px;
+}
+
+
+.product-item {
+
+	background-color: #4d4d4d;
+	height: 100px;
+	width: 100px;
+	margin: 0 auto;
+
+
+	margin-bottom: 40px;
+	@include border-radius(100%)
+
+}
+
+.product p {
+
+		text-align: justify;
+}
+
 
