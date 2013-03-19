@@ -6,13 +6,29 @@ In Q1 2012 the UK entered a recession leading economic forecasts to predict a sl
 
 Marketing on the Internet in general has seen signficant growth. The UK **internet** share of total advertising expenditure rose from £2.64bn in 2007 to £4.48bn by 2011 (The Advertising Association/Warc Expenditure Report 2011), an increase of 68.4% over four years. While digital marketing is on the rise and is often found to result in more leads than traditional channels such as direct mail, it is expected that a larger percentage of marketing spend will be on digital campaigns. The economy is due to strengthen from 2014 onwards, as is the total expenditure on digital marketing.
 
-Embark plans to target small-to-medium enterprises (SME), hoping to capitalise on emerging technologies and the increased use of digital marketing. Our services will be aimed primarily, but not exclusively, at businesses in the Southwest. We are aware that most event-based work for the type of services we provide will probably come from businesses based closer to Exeter and Bristol (Elaine Budd. Appendix E) as Plymouth tends to lack funding for more creative projects.
+In 2012 small-to-medium enterprises (SME's) made up 99 per cent of the 4.8 million businesses in the UK (Rhodes. 2012, Small Businesses and the UK Economy. House of Commons Library). Embark plans to target these SME's, hoping to capitalise on emerging technologies and the increased use of digital marketing. Our services will be aimed primarily, but not exclusively, at businesses in the Southwest.  In 2009 there were 464,735 registered private sector enterprises in the Southwest. If we suggest that 5 per cent of these businesses are in a position to invest in some sort of digital marketing, that still leaves over 23,000 businesses. We are aware that most event-based work for the type of services we provide will probably come from businesses based closer to Exeter and Bristol (Elaine Budd. Appendix E) as Plymouth tends to lack funding for more creative projects.
 
-We already have potential client work for the coming year. Recruitment, part of Plymouth University's marketing department have displayed interest in working with us on generating video campaigns to promote courses, and also to produce engaging digital installations for open-days.  Elaine Budd (Project Manager and owner, Prensus Limited) has also registered interest in our creative services including a possible commision for a flight-themed installation for Plymouth's Respect Festival in October.
+[Market Attractiveness Table]
+[Competitive Position Table]
+[Market Attractiveness V Competitive Position Graph]
+
+Figures [figure numbers] are based on a model from "Marketing Strategy: A Decision-Focussed Approach" (Walker, O. and Mullins, J. 2011). The model has been used in order to make a decision on the market segment Embark will target.  Figures [figure numbers] demonstrate the potential of the SME market based on how certain factors are weighted, and a rating of the companies position against these factors.  
+
+The company already has potential client work for the coming year. Recruitment, part of Plymouth University's marketing department have displayed interest in working with us on generating video campaigns to promote courses, and also to produce engaging digital installations for open-days.  Elaine Budd (Project Manager and owner, Prensus Limited) has also registered interest in our creative services including possible commission for a flight-themed installation for Plymouth's Respect Festival in October.
 
 ## 3.2. Segmentation, Targeting and Positioning
 
 ## 3.3. Competitor Analysis
+
+- Mutant Labs
+- Elixel
+- Rokk Media
+- Altitude
+- DNA Advertising Ltd
+- Big Wave Media Ltd
+- BrayLeino
+- The Big Ideas Business
+- Brighter Creative Ltd
 
 ## 3.4. Competitive Advantages
 
