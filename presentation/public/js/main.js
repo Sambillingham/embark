@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    var socket = io.connect('http://141.163.234.12:8080');
+    var socket = io.connect('http://141.163.232.165:8080');
 
          socket.on('connect', function () {
                 console.log('connection Made');
@@ -17,6 +17,8 @@ $(document).ready(function() {
                         Gravity.reset();
 
                         }, 10000);
+
+                        
 
                 });
 
@@ -60,3 +62,4 @@ var Gravity = {
 
             }
 }
+
