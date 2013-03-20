@@ -8,7 +8,7 @@
 
 ## Slide 3 - Products
 
-**Sam**: As a creative campaigns company, we create experiences for our clients that engage their customers. We have decided to split our services onto three areas to make it easier for clients to know what they need and what we can offer.
+**Sam**: As a creative campaigns company, we create experiences for our clients that engage their customers. We have decided to split our services onto three areas to make it easier for clients to know what they need and what we can offer them.
 
 **Phil**: 
 - Our digital services consist of all the things a client may need in order to create a tailored online campaign.
@@ -45,7 +45,13 @@
 
 we aim to bing the wow factor by combing these three aspects into all of our projects.
 
+# Marketing 
 
+	## Networking
+
+	- events digpen
+- lousie,  bud
+guaranteed work.
 # Operations 
 
 **Sam**: 
@@ -71,8 +77,3 @@ We are able to begin work right away as we all have our own computers as well as
 
 # Questions
 
-# Networking
-
-	- events digpen
-- lousie,  bud
-guaranteed work.
