@@ -32,9 +32,9 @@
 # Market research
 
 **Phil**:
-- [recession - less marketing spend]
-- [digital cheaper option?]
-- [competitors]
+- In 2012, the recession meant many companies didn't have as much funding for marketing. A lot of companies looked to digital marketing as a cheaper alternative than more traditional methods.  From 2007 to 2011 the UK internet share of advertising expenditure rose 68%, demonstrating that digital marketing is on the rise.
+- We've chosen to target the SME market in the Southwest as there's no other company in this region offering the selection of services that Embark can provide.
+- Our main competitors are Mutant Labs, DNA Advertising, and BrayLeino.
 
 # Slide 5 - USP
 
@@ -50,14 +50,10 @@ we aim to bing the wow factor by combing these three aspects into all of our pro
 # Marketing 
 
 **Phil**:
-- [word of mouth]
-- [networking]
-- [online presence, blogging insights, r&d]
-
-	## Networking
-- events digpen
-- lousie,  bud
-guaranteed work.
+- Most of our work will come through 'word of mouth'
+- Networking - getting out to events such as DigPen
+- We will maintain a strong online presence. Blogging insights, utilising social media, and research & development releases will play a big part in this.
+- Already have potential client work for the coming year.  We've been in touch with Plymouth Universities Recruitment department, and project manager, Elaine Budd, both of whom registered interest in working with us.
 
 # Operations 
 
@@ -105,13 +101,13 @@ we will not pay ourselves for the first two months to get Embark off the ground.
 This ensures that we stay in the positive whilst spending time networking
 
 *income*
-we've split our jobs into four categories or work
+we've split our jobs into four categories of work
 **sam**: First we have promotional work…
 we have small jobs…
 medium jobs are…
 large jobs are…
 
-During the first month, we project that we will get 5 dye total of promotional work. This is not a huge amount, but it's a realistic target, and will help us in promoting ourselves to potential clients. As we start are not paying ourselves, we stay in the positive.
+During the first month, we project that we will get 5 days total of promotional work. This is not a huge amount, but it's a realistic target, and will help us in promoting ourselves to potential clients. As we start are not paying ourselves, we stay in the positive.
 
 As the year progresses, we will predict we will get 2-3 days promotional work per month and 4-5 days of small jobs per month.
 
@@ -131,7 +127,7 @@ during the second and third year, we will no longer take on promotional work. we
 
 We will also move out of the formation zone and into our own office. This will cost £240 per month. Wages will also be increased £900 - £1500 - £2500.
 
-At the end of the second year, We will spend £10000 on new equipment, increase our wages to £2500pm and employee a new member to the team at £2000pm. All of these expenses, coupled with corporation tax explains the large drop in total balance you see on the chart.
+At the end of the second year, We will spend £10000 on new equipment, increase our wages to £2500pm and employ a new member to the team at £2000pm. All of these expenses, coupled with corporation tax explains the large drop in total balance you see on the chart.
 
 
 # Questions
