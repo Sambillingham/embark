@@ -8,7 +8,7 @@
 
 ## Slide 3 - Products
 
-**Sam**: As a creative campaigns company, we create experiences for our clients that engage their customers. We have decided to split our services onto three areas to make it easier for clients to know what they need and what we can offer.
+**Sam**: As a creative campaigns company, we create experiences for our clients that engage their customers. We have decided to split our services onto three areas to make it easier for clients to know what they need and what we can offer them.
 
 **Phil**: 
 - Our digital services consist of all the things a client may need in order to create a tailored online campaign.
@@ -18,7 +18,7 @@
 
 **Chris**: Experiential focuses on interaction devices, as well as installations to be placed in public spaces. These engage with participants in a unique way, whether this be [an installation that translates people's footsteps into a visualisation on a big screen] or [a talking head that reacts to the motion of people walking past]. Our interaction devices are built on internet-of-things technologies, using Arduino and Raspberry pie platforms. Each installation will be tailored for our clients, [enabling the maximum publicity possible] for the product, service or event they are promoting.
 
-**Sam**: Production. Our third area is video production. We are able to provide quality production services offering documentaries, interviews and showcase style videos as well as motion graphics and visual effects.
+**Sam**: Our third area is video production. We are able to provide quality production services offering documentaries, interviews and showcase style videos as well as motion graphics and visual effects.
 
 
 ## Slide 4 - Who are we
@@ -45,10 +45,32 @@
 
 we aim to bing the wow factor by combing these three aspects into all of our projects.
 
+# Marketing 
+
+	## Networking
+- events digpen
+- lousie,  bud
+guaranteed work.
+
+# Operations 
+
+**Sam**: 
+*location*
+We will be living and working in a house in plymouth to allow us to reach our audience in the South West. Sharing a house allows us to save money. We'll be applying for a space within the Formation-zone to present ourselves more processionally with a place to meet clients and use for a postal address while still keeping our running costs low.
+
+*workflow*
+As you might have seen we already own 'thisisembark.com' and our site is currently live, using google apps we'll be using company email @thisisembark.com. 
+
+we plan to use git as our version control system, and Github to allow us to collaborate on projects easily. When we begin to work more on video production we'll purchase a Vimeo plus account allowing us more uploads and HD content.
+
+We've decided to use a managed VPS for hosting of our client work and projects, A managed system still allows us additional control where we may need for innovative projects but takes away the haste and time restraints of managing our own server and the responsibilities that comes with that.
+
+*equipment*
+We are able to begin work right away as we all have our own computers as well as a DSLR and prototyping equipment in the form of Arduino and Raspberry pies. We may need to rent some equipment
+
 # Finance
 
 **Chris**:
-
 ## First year cash flow
 - Startup costs
 -- Server management
@@ -77,7 +99,7 @@ This ensures that we stay in the positive whilst spending time networking
 
 *income*
 we've split our jobs into four categories or work
-First we have promotional work…
+**sam**: First we have promotional work…
 we have small jobs…
 medium jobs are…
 large jobs are…
@@ -104,28 +126,6 @@ We will also move out of the formation zone and into our own office. This will c
 
 At the end of the second year, We will spend £10000 on new equipment, increase our wages to £2500pm and employee a new member to the team at £2000pm. All of these expenses, coupled with corporation tax explains the large drop in total balance you see on the chart.
 
-# Operations 
-
-**Sam**: 
-*location*
-We will be living and working in a house in plymouth to allow us to reach our audience in the South West. Sharing a house allows us to save money. We'll be applying for a space within the Formation-zone to present ourselves more processionally with a place to meet clients and use for a postal address while still keeping our running costs low.
-
-*workflow*
-As you might have seen we already own 'thisisembark.com' and our site is currently live, using google apps we'll be using company email @thisisembark.com. 
-
-we plan to use git as our version control system, and Github to allow us to collaborate on projects easily. When we begin to work more on video production we'll purchase a Vimeo plus account allowing us more uploads and HD content.
-
-We've decided to use a managed VPS for hosting of our client work and projects, A managed system still allows us additional control where we may need for innovative projects but takes away the haste and time restraints of managing our own server and the responsibilities that comes with that.
-
-*equipment*
-We are able to begin work right away as we all have our own computers as well as a DSLR and prototyping equipment in the form of Arduino and Raspberry pies. We may need to rent some equipment
-
 
 # Questions
 
-# More about embark
-Risk and assumptions
-legal structure
-insurance
-aims
-Networking and Marketing

@@ -44,7 +44,8 @@ body {
 .team-member {
 
 	float: left;
-	padding: 40px;
+	width: 260px;
+	padding: 30px;
 }
 .team-photo {
 	height: 200px;
@@ -67,15 +68,26 @@ body {
 
 
 .product-item {
-
-	background-color: #4d4d4d;
 	height: 100px;
 	width: 100px;
-	margin: 0 auto;
-
-
-	margin-bottom: 40px;
+	margin: 0 auto;margin-bottom: 40px;
 	@include border-radius(100%)
+
+}
+
+#web-item {
+
+	background: url(../img/icon-digital.png) no-repeat;
+
+}
+#exp-item {
+
+	background: url(../img/icon-experiential.png) no-repeat;
+
+}
+#video-item {
+
+	background: url(../img/icon-production.png) no-repeat;
 
 }
 
@@ -84,4 +96,30 @@ body {
 		text-align: justify;
 }
 
+@media 	only screen and (-webkit-min-device-pixel-ratio: 2),
+		only screen and (-moz-min-device-pixel-ratio: 2),
+		only screen and (min-device-pixel-ratio: 2) {
+
+
+				#web-item {
+
+					background: url(../img/icon-digital@2x.png) no-repeat;
+					background-size: 100px;
+				}
+
+				#exp-item {
+
+					background: url(../img/icon-experiential@2x.png) no-repeat;
+					background-size: 100px;
+
+				}
+				#video-item {
+
+					background: url(../img/icon-production@2x.png)  no-repeat;
+					background-size: 100px;
+
+				}
+
+
+		}
 

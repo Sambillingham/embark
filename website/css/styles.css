@@ -1,0 +1,416 @@
+@font-face {
+    font-family: 'DejaVuSerifCondensedIt';
+    src: url('../fonts/DejaVuSerifCondensed-Italic-webfont.eot');
+    src: url('../fonts/DejaVuSerifCondensed-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/DejaVuSerifCondensed-Italic-webfont.woff') format('woff'),
+         url('../fonts/DejaVuSerifCondensed-Italic-webfont.ttf') format('truetype'),
+         url('../fonts/DejaVuSerifCondensed-Italic-webfont.svg#DejaVuSerifCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_rgbold';
+	src: url('../fonts/proximanova-bold-webfont.eot');
+	src: url('../fonts/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/proximanova-bold-webfont.woff') format('woff'),
+	     url('../fonts/proximanova-bold-webfont.ttf') format('truetype'),
+	     url('../fonts/proximanova-bold-webfont.svg#proxima_nova_rgbold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_rgregular';
+	src: url('../fonts/proximanova-regular-webfont.eot');
+	src: url('../fonts/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/proximanova-regular-webfont.woff') format('woff'),
+	     url('../fonts/proximanova-regular-webfont.ttf') format('truetype'),
+	     url('../fonts/proximanova-regular-webfont.svg#proxima_nova_rgregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'proxima_nova_ltbold';
+	src: url('../fonts/proximanova-semibold-webfont.eot');
+	src: url('../fonts/proximanova-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('../fonts/proximanova-semibold-webfont.woff') format('woff'),
+	     url('../fonts/proximanova-semibold-webfont.ttf') format('truetype'),
+	     url('../fonts/proximanova-semibold-webfont.svg#proxima_nova_ltbold') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* ============================== */
+/* ! Layout for desktop version   */
+/* ============================== */
+	
+	a {
+		text-decoration: none;
+		color: #3F3F3F;
+		transition:opacity 0.3s;
+		-moz-transition:opacity 0.3s; /* Firefox 4 */
+		-webkit-transition:opacity 0.3s; /* Safari and Chrome */
+		-o-transition:opacity 0.3s; /* Opera */
+	}
+		a:hover {
+			opacity: 0.5;
+		}
+
+	.btn-primary {
+		display: block;
+		font-family: "proxima_nova_rgregular", Helvetica, Arial, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		font-size: 11pt;
+		letter-spacing:1pt;
+		text-transform: uppercase;
+		text-align: center;
+		padding: 10px 10px;
+		border: 2px solid #888;
+		border-radius: 5px;
+	}
+
+	p {
+		font-family: "proxima_nova_rgregular", Helvetica, Arial, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		font-size: 16px;
+		line-height: 180%;
+		letter-spacing: 1pt;
+		color: #666;
+	}
+
+	h1 {
+		font-family: "proxima_nova_rgbold", Helvetica, Arial, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		font-size: 13pt;
+		line-height: 140%;
+		letter-spacing:3pt;
+		text-transform: uppercase;
+	}
+
+	h2 {
+		font-family: "proxima_nova_ltbold", Helvetica, Arial, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		font-size: 12pt;
+		letter-spacing:1pt;
+		text-transform: uppercase;
+	}
+
+	h3 {
+		font-family: "proxima_nova_ltbold", Helvetica, Arial, sans-serif;
+		-webkit-font-smoothing: antialiased;
+		font-size: 10pt;
+		letter-spacing:1pt;
+		text-transform: uppercase;
+		color: #3F3F3F;
+		margin: 0 0 20px 0;
+	}
+
+
+	body {
+		min-width: 320px;
+	}
+
+	.row {
+		max-width: 980px;
+	}
+
+	header {
+		background:url('../img/bg-grey.png');
+		border-bottom: 1px solid #E6E6E6;
+	}
+		nav {
+			font-family: "proxima_nova_ltbold", Helvetica, Arial, sans-serif;
+			text-transform: uppercase;
+			letter-spacing: 4px;
+			text-align: center;
+			margin: 0 auto;
+			padding: 20px 0;
+		}
+			nav a {
+				-webkit-font-smoothing: antialiased;
+				display: inline-block;
+				vertical-align: middle;
+				font-size: 12px;
+			}
+			nav a.logo {
+				height: 50px;
+				width: 50px;
+				background: url('../img/header_logo.png');
+			}
+			nav a.left {
+				margin: 0 20px 0 0;
+			}
+
+			nav a.right {
+				margin: 0 0 0 20px;
+			}
+
+	.hero {
+		background:url('../img/hero_bg.png');
+		background-size: cover;
+		background-position: center 0;
+		border-bottom: 1px solid #E6E6E6;
+		box-shadow: inset 0px 0px 8px 0px #DDD;
+		-webkit-box-shadow: inset 0px 0px 8px 0px #DDD;
+		-moz-box-shadow: inset 0px 0px 8px 0px #DDD;
+		-o-box-shadow: inset 0px 0px 8px 0px #DDD;
+	}
+		.hero-logo {
+			width: 500px;
+			height: 249px;
+			background-image: url('../img/hero-logo.png');
+			background-size: 500px 249px;
+			margin: 50px auto;
+		}
+
+	.mission {
+		background:url('../img/bg-grey.png');
+		border-bottom: 1px solid #E6E6E6;
+		padding: 40px 0;
+	}
+		.mission .row {
+			max-width:767px;
+		}
+		.mission a.btn-primary {
+			margin: 12px 20px 0 15px;
+		}
+		.mission p {
+			font-family: "DejaVuSerifCondensedIt", Helvetica, Arial, sans-serif;
+			font-size: 18px;
+			color: #3F3F3F;
+		}
+
+
+	section {
+		background:url('../img/bg-light.png');
+		border-bottom: 1px solid #E6E6E6;
+	}
+		section .row {
+			padding: 50px 0;
+		}
+	
+	.services .row {
+		padding-bottom: 40px;
+	}
+		.services h3,
+		.services p {
+			text-align: center;
+		}
+		.services span {
+			display: block;
+			width: 160px;
+			height: 160px;
+			margin: 0 auto 30px auto;
+			background-size: 160px 160px;
+		}
+		.icon-digital {
+			background-image: url('../img/icon-digital.png');
+		}
+		.icon-experiential {
+			background-image: url('../img/icon-experiential.png');
+		}
+		.icon-production {
+			background-image: url('../img/icon-production.png');
+		}
+
+	.portfolio-link {
+		padding: 0 0 50px 0 !important;
+	}
+		.portfolio-link .btn-primary {
+			max-width: 220px;
+			margin: 0 auto;
+		}
+
+	footer {
+		background:url('../img/bg-grey.png');
+		text-align: center;
+		background: #F8F8F8;
+		padding: 40px 0;
+	}
+		.social {
+			display: inline-block;
+			background-image: url('../img/social.png');
+			width:42px;
+			height:42px;
+			margin: 0 10px 0 0;
+		}
+		.social.facebook {
+			background-position: -42px 0;
+		}
+		.social.vimeo {
+			background-position: -84px 0;
+		}
+		.social.linkedin {
+			background-position: -126px 0;
+			margin: 0 0 0 0;
+		}
+
+		.copyright {
+			font-family: "proxima_nova_ltbold", Helvetica, Arial, sans-serif;
+			font-size: 12px;
+			text-transform: uppercase;
+			color: #DDD;
+			margin: 20px 0 0;
+		}
+
+/* ============================= */
+/* ! Layout for mobile version   */
+/* ============================= */
+
+@media handheld, only screen and (max-width: 767px) {
+
+}
+
+@media screen and (max-width: 767px) {
+
+	.mission {
+		padding: 30px 0;
+	}
+
+	.mission a.btn-primary {
+		padding: 6px 6px;
+		margin: 0 auto 20px;
+		max-width:200px;
+	}
+
+	.mission p {
+		text-align: center;
+		font-size: 16px;
+		max-width: 460px;
+		margin: 0 auto;
+	}
+
+	.services .row {
+		padding-bottom: 0;
+	}
+
+	.services p {
+		margin: 0 auto 40px auto;
+		max-width: 420px;
+	}
+
+	.services span {
+		width: 80px;
+		height: 80px;
+		background-size: 80px 80px;
+	}		
+
+}
+
+@media screen and (max-width: 490px) {
+
+	nav a {
+		font-size: 8px;
+	}
+
+	nav a.logo {
+		width: 25px;
+		height: 25px;
+		background-size: 25px 25px;
+	}
+
+	nav a.left {
+			margin: 0 10px 0 0;
+		}
+
+	nav a.right {
+		margin: 0 0 0 10px;
+	}
+
+	.hero-logo {
+		width: 250px;
+		height: 124px;
+		background-size: 250px 124px;
+		margin: 30px auto;
+	}
+
+}
+
+@media screen and (min-width: 767px) {
+	
+}
+
+
+/* ======================================== */
+/* ! Provide higher res assets for retina   */
+/* ======================================== */
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) { 
+
+	header,
+	.mission,
+	footer {
+		background:url('../img/bg-grey@2x.png');
+	}
+
+	section {
+		background:url('../img/bg-light@2x.png');
+	}
+
+	.social {
+			background-size: 42px 42px; 
+		}
+		.social.twitter {
+			background-image: url('../img/social-twitter@2x.png');
+		}
+		.social.facebook {
+			background-image: url('../img/social-facebook@2x.png');
+		}
+		.social.vimeo {
+			background-image: url('../img/social-vimeo@2x.png');
+		}
+		.social.linkedin {
+			background-image: url('../img/social-linkedin@2x.png');
+		}
+
+}
+
+/* ========================================== */
+/* ! Animate.css - http://daneden.me/animate  */
+/* ========================================== */
+
+.animated {
+	-webkit-animation-fill-mode: both;
+	-moz-animation-fill-mode: both;
+	-ms-animation-fill-mode: both;
+	-o-animation-fill-mode: both;
+	animation-fill-mode: both;
+	-webkit-animation-duration: 2.0s;
+	-moz-animation-duration: 2.0s;
+	-ms-animation-duration: 2.0s;
+	-o-animation-duration: 2.0s;
+	animation-duration: 2.0s;
+}
+
+@-webkit-keyframes fadeIn {
+	0% {opacity: 0;}	
+	100% {opacity: 1;}
+}
+
+@-moz-keyframes fadeIn {
+	0% {opacity: 0;}	
+	100% {opacity: 1;}
+}
+
+@-o-keyframes fadeIn {
+	0% {opacity: 0;}	
+	100% {opacity: 1;}
+}
+
+@keyframes fadeIn {
+	0% {opacity: 0;}	
+	100% {opacity: 1;}
+}
+
+.fadeIn {
+	animation-delay: 0.3s;
+	-moz-animation-delay: 0.3s;
+	-webkit-animation-delay: 0.3s;
+	-o-animation-delay: 0.3s;
+	-webkit-animation-name: fadeIn;
+	-moz-animation-name: fadeIn;
+	-o-animation-name: fadeIn;
+	animation-name: fadeIn;
+}
