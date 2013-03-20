@@ -2,7 +2,7 @@ $(document).ready(function() {
       
 
     var video = $('#video');
-    var socket = io.connect('http://192.168.0.20:8080');
+    var socket = io.connect('http://141.163.145.183:8080');
 
          socket.on('connect', function () {
                 console.log('connection Made');
@@ -22,7 +22,7 @@ $(document).ready(function() {
 
                             $('#overlay').removeClass('show').addClass('hidden');
 
-                        }, 5700);
+                        }, 6700);
 
                         Gravity.init();
 
@@ -31,7 +31,7 @@ $(document).ready(function() {
 
                         Gravity.reset();
 
-                        }, 6200);
+                        }, 7200);
                      
 
                 });
