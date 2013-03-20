@@ -27,12 +27,14 @@
 
 **Sam**: As managing Director I work to keep Embark on the cutting edge by keeping up-to-date with current technologies, web trends and news. Confident in design and development I am able to work both on the technical development of projects as well as creative design. After my placement year in Australia working both as an Online specialist and in content creation, I am well trained in high quality video production and will take the lead in this area.
 
-**Phil** My role as Creative Director is to lead projects in terms of design and functionality.
+**Phil**: I’m creative director of Embark; I take responsibility for the aesthetics and functionality of projects with a focus on making campaigns as user friendly and engaging as possible. I have a background in digital marketing and have worked with individual clients as a freelance wed designer. My clients have included a range of companies, solar panel firms to children’s nurseries. I have also worked for Internet provider Eclipse as part of their website development team. My experience demonstrates I have what it takes to work with a range of clients and the expertise to ensure they are provided with an integrated digital presence. 
 
 # Market research
 
 **Phil**:
-
+- [recession - less marketing spend]
+- [digital cheaper option?]
+- [competitors]
 
 # Slide 5 - USP
 
@@ -46,6 +48,11 @@
 we aim to bing the wow factor by combing these three aspects into all of our projects.
 
 # Marketing 
+
+**Phil**:
+- [word of mouth]
+- [networking]
+- [online presence, blogging insights, r&d]
 
 	## Networking
 
