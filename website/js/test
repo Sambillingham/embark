@@ -1,0 +1,32 @@
+/*$(".thumb").on("click", function(){
+		$(".thumbnails").fadeOut(300);
+		$("footer p").fadeOut(300);
+		var currentId = $(this).attr('id');
+		$(".project #" + currentId).delay(300).fadeIn(300); //addClass .fadeInLeft using Animate.css
+		$("#btn-exit").fadeIn(300);
+		$("footer p").fadeIn(300);
+	});
+
+	$("#btn-exit").on("click", function(){
+		event.preventDefault();
+		$("#btn-exit").fadeOut(300);
+		$(".project .twelvecol").fadeOut(300);
+		$("footer p").fadeOut(300);
+		$(".thumbnails").delay(300).fadeIn(300);
+		$("footer p").fadeIn(300);
+	});*/
+
+$(".thumb").on("click", function(){
+		
+		$(".thumbnails").addClass('offscreen');
+		var currentId = $(this).attr('id');
+		$(".project #" + currentId).removeClass('offscreen');
+		$("#btn-exit").removeClass('offscreen');
+
+		$("#btn-exit").on("click", function(){
+			$("#btn-exit").addClass('offscreen');
+			$(".project #" + currentId).addClass('offscreen');
+			$(".thumbnails").removeClass('offscreen');
+		});
+	
+	});
