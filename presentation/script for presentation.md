@@ -55,10 +55,10 @@ we aim to bing the wow factor by combing these three aspects into all of our pro
 - [online presence, blogging insights, r&d]
 
 	## Networking
-
-	- events digpen
+- events digpen
 - lousie,  bud
 guaranteed work.
+
 # Operations 
 
 **Sam**: 
@@ -78,8 +78,60 @@ We are able to begin work right away as we all have our own computers as well as
 # Finance
 
 **Chris**:
+## First year cash flow
+- Startup costs
+-- Server management
+-- cloud backup
+-- Domain name
+-- networking
+-- company house registration
+-- professional fees (start up docs, shareholders agreement)
 
-**sam**: 3 types of packages
+counteracted with our initial investment of £1500 (900/600)
+on day one we start with a positive balance of £145.70
+
+other expenses throughout the year, which will be paid monthly are:
+- internet
+- server managent
+- a version control system
+- project software (adobe creative suite/vimeo+)
+- google apps for business
+- Free agent (accounting software)
+- insurance
+- Business space (formation zone)
+
+*Wages*
+we will not pay ourselves for the first two months to get Embark off the ground. After this, £900pppm
+This ensures that we stay in the positive whilst spending time networking
+
+*income*
+we've split our jobs into four categories or work
+**sam**: First we have promotional work…
+we have small jobs…
+medium jobs are…
+large jobs are…
+
+During the first month, we project that we will get 5 dye total of promotional work. This is not a huge amount, but it's a realistic target, and will help us in promoting ourselves to potential clients. As we start are not paying ourselves, we stay in the positive.
+
+As the year progresses, we will predict we will get 2-3 days promotional work per month and 4-5 days of small jobs per month.
+
+Our first medium job will be taken on in the 4th month, with our first large 2 week + job being taken on in the 7th month.
+
+This all ensures a steady increase in our income, leading to a steadily increasing balance.
+
+At the end of the first year, the drops you see on the chart occur because of extra payments in the final month. The are for accounts, company house payment, repaying £500 of initial investment and £1000 to be spent on new equipment.
+
+## Break even chart
+
+Our total expenses for the first year are 36,170.96. Assuming that we are receiving £400 for every full day worked, Embark needs to have 91.5 days of fully paid work to break even.
+
+## 3 year cash flow
+
+during the second and third year, we will no longer take on promotional work. we will have a steadily decreasing number of days spent working on small jobs, and a steadily increasing number of days spent on medium and large jobs. During the second year, we will increase our daily rate to £500 and during the third year, to £600.
+
+We will also move out of the formation zone and into our own office. This will cost £240 per month. Wages will also be increased £900 - £1500 - £2500.
+
+At the end of the second year, We will spend £10000 on new equipment, increase our wages to £2500pm and employee a new member to the team at £2000pm. All of these expenses, coupled with corporation tax explains the large drop in total balance you see on the chart.
 
 
 # Questions
