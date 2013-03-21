@@ -8,7 +8,7 @@
 
 ## Slide 3 - Products
 
-**Sam**: As a creative campaigns company, we create experiences for our clients that engage their customers. We have decided to split our services onto three areas to make it easier for clients to know what they need and what we can offer them.
+**Sam**: As a creative campaigns company, we create experiences for our clients that engage their customers. We have decided to split our services into three areas to make it easier for clients to know what they need and what we can offer them.
 
 **Phil**: 
 - Our digital services consist of all the things a client may need in order to create a tailored online campaign.
@@ -25,7 +25,7 @@
 
 **Chris**: As Technical Director I have developing roles in both our web services and our physical interaction devices and experiences. With a years experience in London working on the back end development of touch screen kiosks and capabilities in multiple programming languages I am able to develop functional interactive devices for our clients.
 
-**Sam**: As managing Director I work to keep Embark on the cutting edge by keeping up-to-date with current technologies, web trends and news. Confident in design and development I am able to work both on the technical development of projects as well as creative design. After my placement year in Australia working both as an Online specialist and in content creation, I am well trained in high quality video production and will take the lead in this area.
+**Sam**: As managing Director I work to keep Embark on the cutting edge by keeping up-to-date with current technologies, current web trends and news. Confident in design and development I am able to work both on both areas when needed. After my placement year in Australia working both as an Online specialist and in content creation, I am well trained in producing high quality video production.
 
 **Phil**: I’m creative director of Embark; I take responsibility for the aesthetics and functionality of projects with a focus on making campaigns as user friendly and engaging as possible. I have a background in digital marketing and have worked with individual clients as a freelance wed designer. My clients have included a range of companies, solar panel firms to children’s nurseries. I have also worked for Internet provider Eclipse as part of their website development team. My experience demonstrates I have what it takes to work with a range of clients and the expertise to ensure they are provided with an integrated digital presence. 
 
@@ -38,12 +38,12 @@
 
 # Slide 5 - USP
 
-**sam**: As a company we want to focus on three main aspects to be better than our competition. 
+**sam**: As a company we want to focus on three unique selling points.  
 
 
--  Latest technology and innovation.
--  Polished products with attention to detail.
--  Transparent
+-  Using Latest technology.
+-  creating Polished products with attention to detail.
+-  being transparent when dealing with clients.
 
 we aim to bing the wow factor by combing these three aspects into all of our projects.
 
@@ -102,11 +102,11 @@ This ensures that we stay in the positive whilst spending time networking
 
 *income*
 we've split our jobs into four categories of work
-**sam**: First we have promotional work…
-we have small jobs…
-medium jobs are…
-large jobs are…
+**sam**: First we have promotional work, this is to allow us to work with clients such as the university that may not be able to afford our day rate. While being aware not to under-sell ourselves, It is important for us not be out of reach to smaller clients in the first year. We'll be working on promotional work at a lower rate to create portfolio work and gain publicity.
 
+Our other work is separated into 3 categories to help predict the amount of work we'll be undertaking. work is based on the amount of working days not the time to completion. we do work that is 1-3 days, 3-10days , 2 weeks plus.
+
+**Chris**:
 During the first month, we project that we will get 5 days total of promotional work. This is not a huge amount, but it's a realistic target, and will help us in promoting ourselves to potential clients. As we start are not paying ourselves, we stay in the positive.
 
 As the year progresses, we will predict we will get 2-3 days promotional work per month and 4-5 days of small jobs per month.

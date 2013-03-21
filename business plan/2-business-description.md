@@ -2,13 +2,12 @@
 
 ## 2.1. Risks and Assumptions
 
-- Founders will not be paid for the first two months living on money from parents, current overdraft and student loans
+- Founders will not be paid for the first two months living on money from parents, current overdraft and student loans.
 - Founders are able to live on reduced wages as the costs associated with accommodation can be shared.
-- Each founder will add £300 into the business as an initial investment which will then be repaid in the final month of the first year.
-- The company has equipment in for the forms of computers, camera prototyping gear (Arduino & Raspberry Pi), software.
-- The management team have personal telephone lines which will be used to talk to business clients.
-- Personal Cars can be used for transport.
-- After speaking with contacts at the university it is assumed that Embark will have five promotional jobs as-well as three larger campaigns spread across the first year with the potential to be an annual recurrence if successful.
+- Each founder will add £500 into the business as an initial investment which will then be repaid over 3 years, £500 at the end of each year.
+- The company has equipment in for the forms of computers, a DSLR camera, prototyping (Arduino & Raspberry Pi) and software.
+- Personal Cars can be used for transport required for networking.
+- After speaking with contacts at the university it is assumed that Embark will have five promotional jobs as-well as one larger campaign in first year with the potential to be an annual recurrence if successful.
 - With connections made through Elaine Bud founding members are confident that the company will be able to secure at minimum two campaigns within this network.
 - Connections throughout management teams' placement years/ family/ friends who will be able to aid the company in finding work.
 
@@ -57,11 +56,11 @@ Phil has extensive knowledge of web technologies and is proficient in user exper
 
 The three members involved with the company all have a genuine passion for design, development and technology.  
 
-Being on the Digital Art and Technology course at Plymouth University has provided us with a varied set of skills within the digital sector.  Over the last four years we have had the chance to work together on several projects utilising latest technologies in creative ways.  The three members are known for having a good work ethic and have gained a systematic workflow over the duration of the course.
+Being on the Digital Art and Technology course at Plymouth University has provided us with a varied set of skills within the digital sector. Over the last four years we have had the chance to work together on several projects utilising latest technologies in creative ways. The three members are known for having a good work ethic and have gained a systematic workflow over the duration of the course.
 
 Each member has produced work of a professional standard for companies such as CVC Network, Eclipse Internet, KCOM Group, and Liquid Digital.
 
-Based on the previous experience of founding members who witnessed how many businesses are stuck with outdated systems due to limitations of time or funding.  This often results in corner-cutting and therefore products and services are less effective as a result.  Embark is a chance to start from scratch, putting it in a position to create a strategy, setting up a company that is as scalable and future proof as possible.  This is important in the ever-evolving digital sector as technological advancements are so frequent.
+Based on the previous experience of founding members who witnessed how many businesses are stuck with outdated systems due to limitations of time or funding. This often results in corner-cutting and therefore products and services are less effective as a result. Embark is a chance to start from scratch, putting it in a position to create a strategy, setting up a company that is as scalable and future proof as possible.  This is important in the ever-evolving digital sector as technological advancements are so frequent.
 
 The Embark vision is to create a company that encourages creativity and 'out-of-the-box' thinking, taking the latest technologies and using them in engaging ways in order to market brands, products, services and events.
 

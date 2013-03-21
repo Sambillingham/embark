@@ -2,7 +2,7 @@ $(document).ready(function() {
       
 
     var video = $('#video');
-    var socket = io.connect('http://192.168.0.20:8080');
+    var socket = io.connect('http://178.79.132.119:8080');
 
          socket.on('connect', function () {
                 console.log('connection Made');
@@ -16,13 +16,25 @@ $(document).ready(function() {
                             
                                  video.get(0).play();
                             
+                        setTimeout(function () {
 
+
+                            $('#vid-over').removeClass('hidden').addClass('show');
+
+                        }, 1700);
+
+                        setTimeout(function () {
+
+
+                            $('#vid-over').removeClass('show').addClass('hidden');
+                            
+                        }, 4500);
 
                         setTimeout(function () {
 
                             $('#overlay').removeClass('show').addClass('hidden');
 
-                        }, 5700);
+                        }, 6700);
 
                         Gravity.init();
 
@@ -31,7 +43,7 @@ $(document).ready(function() {
 
                         Gravity.reset();
 
-                        }, 6200);
+                        }, 7200);
                      
 
                 });

@@ -12,21 +12,46 @@
 	<link rel="stylesheet" href="css/1140.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="css/styles.css" type="text/css" media="screen" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+	<script src="js/socket.io.min.js"></script>
 	<script type="text/javascript" src="js/functions.js" language="javascript"></script>
 	<script type="text/javascript" src="js/css3-mediaqueries.js"></script>
+
+
+	<style type="text/css">
+		.socket {
+			background: #333;
+		}
+		.socket .row {
+			margin: 0 auto;
+			padding: 20px 0;
+			max-width: 320px;
+		}
+		.socket .btn-primary {
+			border-color: #FFF;
+			color: #FFF;
+		}
+	</style>
 
 </head>
 
 <body>
 
+<div class="container socket">
+	<div class="row">
+		<div class="twelvecol last">
+			<a id="gravity" class="btn-primary">Click Me.  I Dare You</a>
+		</div>
+	</div>
+</div>
+
 <header class="container">
 	<div class="row">
 		<nav class="twelvecol last">
-			<a class ="left" href="/work" title="Work">Work</a>
-			<a class ="left" href="/about" title="Work">About</a>
-			<a class="logo" href="/" title="Work"></a>
-			<a class ="right" href="/blog" title="Work">Blog</a>
-			<a class ="right" href="/contact" title="Work">Contact</a>
+			<a class ="left" href="#" title="Work">Work</a>
+			<a class ="left" href="#" title="Work">About</a>
+			<a class="logo" href="#" title="Work"></a>
+			<a class ="right" href="#" title="Work">Blog</a>
+			<a class ="right" href="#" title="Work">Contact</a>
 		</nav>
 	</div>
 </header>
@@ -42,7 +67,7 @@
 <div class="container mission">
 	<div class="row">
 		<div class="fourcol">
-			<a href="/contact" class="btn-primary" title="Contact">Contact us</a>
+			<a href="#" class="btn-primary" title="Contact">Contact us</a>
 		</div>
 		<div class="eightcol last">
 			<p>Award winning campaigns and engaging experiences through digital innovation</p>
@@ -70,7 +95,7 @@
 	</div>
 	<div class="row portfolio-link">
 		<div class="twelvecol last">
-			<a class="btn-primary" href="/work" title="Work">View Portfolio</a>
+			<a class="btn-primary" href="#" title="Work">View Portfolio</a>
 		</div>
 	</div>
 </section>
