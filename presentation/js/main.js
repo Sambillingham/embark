@@ -2,7 +2,7 @@ $(document).ready(function() {
       
 
     var video = $('#video');
-    var socket = io.connect('http://178.79.132.119:8080');
+    var socket = io.connect('http://178.79.132.119:8081');
 
          socket.on('connect', function () {
                 console.log('connection Made');
