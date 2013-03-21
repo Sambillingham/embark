@@ -2,7 +2,7 @@ $(document).ready(function() {
       
 
     var video = $('#video');
-    var socket = io.connect('http://141.163.145.183:8080');
+    var socket = io.connect('http://178.79.132.119:8080');
 
          socket.on('connect', function () {
                 console.log('connection Made');
@@ -16,7 +16,19 @@ $(document).ready(function() {
                             
                                  video.get(0).play();
                             
+                        setTimeout(function () {
 
+
+                            $('#vid-over').removeClass('hidden').addClass('show');
+
+                        }, 1700);
+
+                        setTimeout(function () {
+
+
+                            $('#vid-over').removeClass('show').addClass('hidden');
+                            
+                        }, 4500);
 
                         setTimeout(function () {
 
