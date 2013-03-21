@@ -1,4 +1,28 @@
+Appendix A - First Year Cash Flow Chart
+Appendix B - Three Year Cash Flow
+Appendix C - Transcript from Louise Kent
+Appendix D - Outreach Target Form
+Appendix E - Emails from Christian Cooke
+Appendix F - Emails from Alex Ryley
+Appendix G - Transcript from Elaine Budd
+Appendix H - Transcript from Martin Atkins
+Appendix I - Formation Zone Pricing
+Appendix J - Business Insurance
+Appendix K - Google Drive Storage
+Appendix L - Google Apps for business
+Appendix M - Free Agent
+---
+
 ## Appendix A
+### First Year Cash Flow Chart
+[insert page 1 of 'cash flow' word doc]
+
+## Appendix B
+### Three Year Cash Flow
+[insert pages 2-5 of 'cash flow' word doc]
+
+
+## Appendix C
 ### Transcript of an interview with Louise Kent - Student Ambassador, Outreach
 
 **Louise** - Let me just explain the current structure of the recruitment sector of Plymouth University. We all work under the umbrella of student services. We have *'Recruitment'* and *'Outreach'*, which are the two departments that work together to recruit people to the university. Outreach works specifically with a certain brand of people - people who come from low income families, people who are disabled, ethnic minority groups and adult learners. So very specific groups of people. Whereas *'Recruitment'* is the marketing side of it. So they're the people that go out to the UCAS fares and do all that kind of stuff. Outreach splits itself into different categories. I work specifically with the Arts faculty. My job is to recruit people that Outreach target to courses within the Arts faculty. To do this we'll go into schools, send academics into schools, and bring people onto the campus to give them an idea of what student life is like. All of outreach work with the same set of targets to recruit certain numbers of the different groups of people I listed earlier. The recruitment sector target everybody, but ours is specific, so we will do what is necessary for all of our faculties in order to recruit people from all of these different backgrounds. There are a number of target groups that we know have a large population in this area - people who have low incomes, people who's parents have never been to university etc. The way that we judge that we're hitting the right targets is to get every student we work with to fill in a form (see Appendix B.). This information will then be collated to work out if we're hitting our targets of recruiting from each of the groups. I hope that gives you a good background into what we do.
@@ -35,13 +59,13 @@
 
 **Louise** - I would need to know exactly what you can do, and then if I send that around my department, I'm sure some ideas will come up as to how we can utilise you and for the sorts of things we need as a whole. It would be nice if it was something that wasn't just Arts specific. I'm willing to try it out as Arts first, but if this is something that is going to work for us, then obviously the whole department will want in. We've got four different faculties. We have six different strands, so this could be something that benefits everybody. So if the message was quite generic it would be good if we could use it in a few different areas. So, if you could show me something in the form of some ideas, that would be great.
 
-## Appendix B
+## Appendix D
 
 ### Outreach Target Form
 
 [insert copy of the form Louise Kent gave us]
 
-## Appendix C
+## Appendix E
 
 ### Emails from Christian Cooke - Research Director, Elixel
 
@@ -69,21 +93,7 @@ Cheers
 
 Christian
 
----
-
-Hi Cookie
-
-Thanks for your last reply. It was very useful. I was wondering if you could give me an idea as to how much web development work there is in Plymouth, especially for developments that incorporate modern web technologies, such as HTML5, CSS3, Web GL etc.
-
-Thanks again 
-
-Chris
-
----
-
-[insert final reply from cookie]
-
-## Appendix C
+## Appendix F
 
 ### Emails from Alex Ryley - Managing Director, Mutant Labs
 
@@ -112,13 +122,7 @@ regards
 
 Alex
 
-## Appendix D
-
-### Emails from Elaine Budd - Project Management Service Manager, Plymouth Chamber of Commerce & Industry
-
-[insert Elaine Budd emails here]
-
-## Appendix E
+## Appendix G
 
 ### Transcript of interview with Elaine Budd - Project Manager, Prensus Limited
 
@@ -190,25 +194,38 @@ Alex
 
 **Chris** - Ok, well thank you very much. Hopefully we speak to you soon.
 
-## Appendix F
+## Appendix H
+
+### Transcript of an interview with Martin Atkins, Francis Clark Chartered Accountants
+
+[insert transcript]
+
+## Appendix I
+
+### Formation Zone Pricing
+
+[insert second page of Formation]
+
+## Appendix J
 
 ### Business Insurance
 
 [insert both images of business insurance]
 
-## Appendix G
+## Appendix K
 
 ### Google Drive Storage
 
 [insert image of google drive storage]
 
-## Appendix H
+## Appendix L
 
 ### Google Apps for business
 
 [insert image of google apps for business]
 
-waiting on Elaine
-waiting on Cookie
-email louise
+## Appendix M
 
+### Free Agent
+
+[insert image of Free Agent]
