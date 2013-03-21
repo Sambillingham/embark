@@ -198,7 +198,17 @@ Alex
 
 ### Transcript of an interview with Martin Atkins, Francis Clark Chartered Accountants
 
-[insert transcript]
+**Chris** - Hi, I've been given your contact details by the Plymouth Formation Zone. I'm looking to start up my own Limited business with two friends from university and we need to find out about the procedure and the legal documentation we need, as well as how much all of this would cost.
+
+**Martin** - Well, as far as getting things like company formation in place, accounting and the tax side of things, to get set up you're probably looking at £250. From the legal perspective, if you wanted to get a shareholders agreement in place, which we really recommend when three separate parties come together, I would imagine you might be able to negotiate around a thousand pounds approximately. It's likely to be slightly higher than that, which puts a lot of companies off getting an agreement in place. Without that in place, you basically run to the letter of the law.
+
+**Chris** - yeh, we are definitely looking to get a shareholders agreement.
+
+**Martin** - To be honest, it's fairly straight forward to get things up and running. There's the registration of the company house, and what we usually do is help out with book keeping and spreadsheets. It's the legal side of things that is a bit more expensive. I hope that's useful to you
+
+**Chris** - Yeh that's brilliant thank you.
+
+**Martin** - With a limited company, annual statuary accounts, corporation tax returns will need to be completed and self assessment tax returns for each of the directors and the costs for that vary depending on how well your books are kept.
 
 ## Appendix I
 

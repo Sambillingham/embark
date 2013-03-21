@@ -10,13 +10,13 @@ At startup, investment in any equipment in not necessary. Between the three dire
 
 **Startup Costs**
 *Professional Fees*
-£15 will pay for the company house registration fee and all other startup documentation will be completed with an accountant. Frances Clark Chartered Accountants have quoted £250 for this, as well as £1000 for a shareholders agreement (See Appendix).
+£15 will pay for the company house registration fee and all other startup documentation will be completed with an accountant. Frances Clark Chartered Accountants have quoted £250 for this, as well as £1000 for a shareholders agreement (see Appendix H).
 *Server Management*
 A server will be needed to run work on, so for this a server management system will be invested in. This will need to be paid monthly, but an initial payment of £60.80 will need to be paid to cover the first month.
 *Domain Name*
 On this server, Embark will host it's own website. The domain name for this will cost £7.
 *Cloud Backup*
-To cover against loss of data, the Google Cloud Platform will be used. This will cost £11.50 as an initial payment to cover the first month (see appendix).
+To cover against loss of data, the Google Cloud Platform will be used. This will cost £11.50 as an initial payment to cover the first month (see Appendix K).
 *Networking*
 £10 has been set aside from the initial investment to pay for business cards. The three directors plan to go to networking events to spread the Embark name, so for these events business cards are essential.
 
@@ -52,25 +52,25 @@ The assumption has been made that during the second and third years, the amount 
 
 ## 6.3. 12 Month Cash Flow Projection
 
-(see appendix)
+(see Appendix A)
 
 **Monthly Payments**
 *Business Insurance*
-Business insurance is a necessity to protect from many issues that may arise as during trading. Appendix F shows the business cover that will be received and how much it costs. The insurance will cost £48.79 per month.(see Appendix)
+Business insurance is a necessity to protect from many issues that may arise as during trading. Appendix J shows the business cover that will be received and how much it costs. The insurance will cost £48.79 per month.
 *Business Space*
-Although all members will be working from a house, they will still need a professional environment to meet people and to register as a company address. For this, the Plymouth Formation Zone at the University will be used. This will cost £108 per month, and will provide additional support in the form of one to one sessions with business guidance through Solutions for Business providers. Access to start up resources and links to Plymouth University research expertise will be available, as well as being in an environment where knowledge can be shared with other start-up companies.(see Appendix)
+Although all members will be working from a house, they will still need a professional environment to meet people and to register as a company address. For this, the Plymouth Formation Zone at the University will be used. This will cost £108 per month, and will provide additional support in the form of one to one sessions with business guidance through Solutions for Business providers. Access to start up resources and links to Plymouth University research expertise will be available, as well as being in an environment where knowledge can be shared with other start-up companies.(see Appendix I)
 *Internet*
 Internet access is extremely important for the company, and for adequate internet, as well as a landline phone, £65 will be paid each month.
 *Version Control System*
 A version control system will also be needed to allow for easy versioning and collaborative work. This will cost £17 per month. 
 *Accounting Software*
-The accounting software, 'Free Agent' will be purchased to can manage finances. This will cost £25 per month (see Appendix).
+The accounting software, 'Free Agent' will be purchased to can manage finances. This will cost £25 per month (see Appendix M).
 *Cloud Backup*
-This will cost £11.50 per month (see Appendix)
+This will cost £11.50 per month (see Appendix K)
 *Google Apps For Business*
-'Google Apps For Business' is another online software that will be required. This will be free for the first month, and £9.90 for every month thereafter (see Appendix).
+'Google Apps For Business' is another online software that will be required. This will be free for the first month, and £9.90 for every month thereafter (see Appendix L).
 *Project Software*
-Other software needed for day to day company work will cost £146.64 per month (see Appendix).
+Other software needed for day to day company work will cost £146.64 per month
 *Server Management*
 This will total £60.80 per month.
 *Wages*
@@ -87,7 +87,7 @@ During this first year, the company's balance stays positive, with a closing bal
 
 ## 6.4. 3 Year Cash Flow Projection
 
-(see appendix)
+(see Appendix B)
 
 The amount that Embark charges for its services per day will increase to £500 in the second year, and to £600 in the third year.
 
