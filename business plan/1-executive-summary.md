@@ -6,10 +6,7 @@ EMBARK is a digital marketing campaigns company that promotes products, services
 
 Services are aimed primarily, but not exclusively, at businesses in the Southwest.
 
-- [Who are we?]
-- [What do we do?]
-- [Who do we do it for?]
-- [Why would clients choose us? (USP's)]
+We focus on creating polished products and being transparent when working with clients.
 
 ## 1.2. Mission Statement
 
@@ -17,7 +14,7 @@ Services are aimed primarily, but not exclusively, at businesses in the Southwes
 
 ## 1.3. Products and Services
 
-Embark's services are split into three main categories; *Digital*, *Experiential*, and *Production*.  These categories have been created in order to help the client choose a solution that is right for them.  Clients do not have to commit to a specific package, but instead, can choose the products and services that suit their needs.
+Embark's services are split into three main categories; *Digital*, *Experiential*, and *Production*.  These categories have been created in order to help the client choose a solution that is right for them. Clients do not have to commit to a specific package, but instead, can choose the products and services that suit their needs.
 
 **Digital** - Encompasses all the services clients may need for creating tailored online campaigns.  This includes micro-sites, landing pages, responsive websites, data visualisations and applications.
 

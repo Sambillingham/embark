@@ -4,18 +4,18 @@
 
 Being digital based our workflow will be based around our personal workstations. We will meet clients in person at our premises and/or communicating via phone/email. we can arrange to meet clients at scheduled time depending on the length of the project.
 
-We are purchasing a 'google apps for business' account for £3.30 per user costing a total of £9.90 which will allow us a number of benefits. We will us professional email using our domain @thisisembark which is easily setup and maintained through gmail. Group calendar functionality to easily see when we are working, when client work is due, when staff members are away etc.
+We are purchasing a 'google apps for business' account for £3.30 per user costing a total of £9.90 which will allow us a number of benefits  (see appendix) . We will us professional email using our domain @thisisembark which is easily setup and maintained through gmail. Group calendar functionality to easily see when we are working, when client work is due, when staff members are away etc.
 
-We are using Git as our version control system while using Github for a remote back for all of our projects and where appropriate to host our projects for outside interaction/integration. Backups will all be stored in the cloud within our google apps for business packages where we have purchased additional storage space to accommodate a growing number of projects and required space.
+We are using Git as our version control system while using Github for a remote back for all of our projects and where appropriate to host our projects for outside interaction/integration. Backups will all be stored in the cloud within our google apps for business packages where we have purchased additional storage space to accommodate a growing number of projects and required space (see appendix ).
 
-Vimeo will be used to host our finalised video production work, A Vimeo Plus account costs approximately £6 a month varying with USD exchange rate. A Vimeo Plus account allows for the increased   available upload amount that we will require when creating video productions both for our own publicity and for client work.
+Vimeo will be used to host our finalised video production work, A Vimeo Plus account costs approximately £6 a month varying with USD exchange rate (see appendix). A Vimeo Plus account allows for the increased   available upload amount that we will require when creating video productions both for our own publicity and for client work.
 
 
 When work is completed and approved with clients we will us a managed VPS service to host the work we have created. A managed system still allows us additional control where we may need out of the ordinary web services for innovative projects but takes away the haste and time restraints of managing our own server and the technical difficulties and responsibilities that comes with that.
 
 ## 5.2. Premises
 
-Embark consists of three founders all sharing a small 3 bedroom rental house in Plymouth which will act as our main place of work. The Formation Zone at Plymouth university will act as our business and postal address and location for meeting with clients. 
+Embark consists of three founders all sharing a small 3 bedroom rental house in Plymouth which will act as our main place of work. The Formation Zone at Plymouth university will act as our business and postal address and location for meeting with clients ( see appendix). 
 
 ## 5.3. Proposed Location
 
@@ -23,7 +23,7 @@ Embark will be located in the city of Plymouth within the United Kingdom. Our pr
 
 ## 5.4. Hours of Operation
 
-Primary hours of work will be regular offices hours 9∫am - 5pm, this allows us to accommodate our clients and other business that we will need to be in regular contact with. We understand that our hours may vary on occasion and may extend past the 8 hours a day and 9-5 timeframe but aiming to still working under 48 hours a week per staff member.
+Primary hours of work will be regular offices hours 9am - 5pm, this allows us to accommodate our clients and other business that we will need to be in regular contact with. We understand that our hours may vary on occasion and may extend past the 8 hours a day and 9-5 timeframe but aiming to still working under 48 hours a week per staff member.
 
 ## 5.5. Equipment
 
