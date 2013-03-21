@@ -2,7 +2,7 @@ var app = require('http').createServer(handler)
    io = require('socket.io').listen(app),
    fs = require('fs');
 
-app.listen(8080);
+app.listen(8081);
 
 function handler (req, res) {
   fs.readFile(__dirname + '/index.html',
@@ -18,12 +18,7 @@ function handler (req, res) {
 }
 
 io.sockets.on('connection', function (socket) {
-  // socket.emit('news', { hello: 'world' });
-  // socket.on('my other event', function (data) {
-  //   console.log(data);
- // });
-
-
+  
    socket.on('gravity', function () {
 
             socket.broadcast.emit('change gravity');
