@@ -16,7 +16,7 @@ Embark is all about brand awareness and you can't make something stand out unles
 
 Embark utilises the latest techniques, a good eye for design and the most creative uses of technology, resulting in campaigns that far outweigh current attempts of regional competition.
 
-Embark is not an agency that will just create another email campaign, or to set up pay-per-click advertising and AdWords. Campaigns of this nature rarely make an impact when a company is trying to get a message out there. Embarks selection of services enable businesses to genuinely make a significant difference in raising awareness of brands, products and events, reaching their target audience in new and exciting ways.
+Embark is not an agency that will just create another email campaign, or to set up pay-per-click advertising and AdWords. Campaigns of this nature rarely make an impact when a company is trying to get a message out there. Embark's selection of services enable businesses to genuinely make a significant difference in raising awareness of brands, products and events, reaching their target audience in new and exciting ways.
 
 Embark's services are split into three main categories; Digital, Experiential, and Production. These categories have been created in order to help the client choose a solution that is right for them. Clients do not have to commit to a specific package, but instead, can choose from the full range of products and services which, when combined, create an integrated marketing campaign.
 
@@ -26,12 +26,12 @@ Embark also offers real-time visualisations for the web, enabling clients to com
 
 Embark also offers native mobile application development, focussing on high quality interface and interaction design on all projects and stands above the crowd online.
 
-**Experiential** - Embark offers bespoke digital solutions, in the form as interactive installations and interaction devices. Focusing on engaging clients customers in unique ways by building specific interaction on the Arduino and Raspberry pie prototyping platforms. When prototypes are complete Embark create custom products, which are released separately or integrate into clients product, event, building, stand or whatever is required. 
+**Experiential** - Embark offers bespoke digital solutions, in the form of interactive installations and interaction devices. These focus on engaging client's customers in unique ways by building specific interaction on the Arduino and Raspberry pie prototyping platforms. When prototypes are complete, Embark create custom products which are released separately or integrate into clients product, event, building, stand or whatever is required. 
 
-Each installation will be tailored for our clients, enabling Embark to create the perfect solution to effectively engage the target audience of the client. Recent developments of ‘internet-of-things’ technology platforms means services can be fully integrated with online applications and other Embark digital services, sharing data in real-time.
+Each installation will be tailored for our clients, enabling Embark to create the perfect solution to effectively engage the target audience of the client. Recent developments of ‘internet-of-things’ technology platforms mean services can be fully integrated with online applications and other Embark digital services, sharing data in real-time.
 
-Clients can either approach the company with an idea, or alternatively an innovative solution, that best suits their needs, can be created. 
+Clients can either approach the company with an idea, or alternatively an innovative solution that best suits their needs, which can be created. 
 
-**Production** - Covers the video production services Embark provides. Professional demonstrations, documentaries, interviews and showcase videos can be produced for clients. Inline with the industry standard Embark uses Digital SLR camera's along with various lenses that the company has access to, in order to film events or products for showcasing, creating quality content. Custom videography and photography can be integrated into any of the services Embark offers. 
+**Production** - Covers the video production services Embark provides. Professional demonstrations, documentaries, interviews and showcase videos can be produced for clients. Inline with the industry standard, Embark uses Digital SLR cameras along with various lenses that the company has access to in order to film events or products for showcasing, creating quality content. Custom videography and photography can be integrated into any of the services Embark offers. 
 
 Within Production we also offer motion graphics, animations and visual effects to combine with other services. Video work will most likely be for the clients to showcase their brand or product online, therefore a Production solution ties in well with services such as web design, which the client may be interested in for an integrated campaign.
