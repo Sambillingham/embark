@@ -14,22 +14,24 @@ Embark is all about brand awareness and you can't make something stand out unles
 
 ## 1.3. Products and Services
 
-When you start with great techniques, good eye for design and the most creative uses of technology, the results far outweigh current attempts of competition. 
+Embark utilises the latest techniques, a good eye for design and the most creative uses of technology, resulting in campaigns that far outweigh current attempts of regional competition.
 
-Embark is not here to create another email campaign, to set up pay-per-click advertising, or adwords, which rarely make an impact when a company is trying to get a message out there.  Embarks selection of services enable businesses to **actually** make people aware of their brand, products.
+Embark is not an agency that will just create another email campaign, or to set up pay-per-click advertising and AdWords. Campaigns of this nature rarely make an impact when a company is trying to get a message out there. Embarks selection of services enable businesses to genuinely make a significant difference in raising awareness of brands, products and events, reaching their target audience in new and exciting ways.
 
-Embark's services are split into three main categories; *Digital*, *Experiential*, and *Production*. These categories have been created in order to help the client choose a solution that is right for them. Clients do not have to commit to a specific package, but instead, can choose the products and services that best suit their individual needs or can be directed by Embark and not choose at all.
+Embark's services are split into three main categories; Digital, Experiential, and Production. These categories have been created in order to help the client choose a solution that is right for them. Clients do not have to commit to a specific package, but instead, can choose from the full range of products and services which, when combined, create an integrated marketing campaign.
 
-**Digital** - Encompasses all the services clients may need for creating tailored online campaigns. This includes micro-sites, landing pages, responsive websites for clients looking to sell products, services, or to promote a brand or event online. 
+**Digital** - Encompasses all the services clients may need for creating tailored online campaigns. This includes micro-sites, landing pages, responsive websites for clients looking to promote products, services, brands, or events online. 
 
-Embark also offers real-time visualisations for the web, enabling clients to communicate information through graphical means. Embark's data Visualisations bring aesthetic form and functionality together to create an individual experience for clients customers that stimulate engagement and attention. 
+Embark also offers real-time visualisations for the web, enabling clients to communicate information through graphical means. Embark's data Visualisations bring aesthetic form and functionality together to create a unique experience, stimulating engagement and attention. 
 
-Embark offers custom built native mobile applications and is always focused on bringing high quality design to all projects and stands above the crowd online.
+Embark also offers native mobile application development, focussing on high quality interface and interaction design on all projects and stands above the crowd online.
 
-**Experiential** - Embark offers bespoke digital solutions, in the form as interactive installations and interaction devices. Focusing on engaging clients customers in unique ways by building specific interaction on the Arduino and Raspberry pie prototyping platforms. When prototypes are complete Embark create custom products which are released separately or integrate into clients product, event, building, stand or whatever is required. Each installation will be tailored for our clients, enabling the maximum publicity. With the rise of the internet-of-things this service can be fully integrated with online technologies and other Embark digital services.
+**Experiential** - Embark offers bespoke digital solutions, in the form as interactive installations and interaction devices. Focusing on engaging clients customers in unique ways by building specific interaction on the Arduino and Raspberry pie prototyping platforms. When prototypes are complete Embark create custom products, which are released separately or integrate into clients product, event, building, stand or whatever is required. 
+
+Each installation will be tailored for our clients, enabling Embark to create the perfect solution to effectively engage the target audience of the client. Recent developments of ‘internet-of-things’ technology platforms means services can be fully integrated with online applications and other Embark digital services, sharing data in real-time.
 
 Clients can either approach the company with an idea, or alternatively an innovative solution, that best suits their needs, can be created. 
 
-**Production** - Covers the video production services Embark provides. Professional demonstrations, documentaries, interviews and showcase videos can be produced for clients. Inline with the industry standard Embark uses Digital SLR camera's and multiple lenses to film events or products for showcasing, creating quality content. Custom videography and photography can be integrated into any of the services we offer. 
+**Production** - Covers the video production services Embark provides. Professional demonstrations, documentaries, interviews and showcase videos can be produced for clients. Inline with the industry standard Embark uses Digital SLR camera's along with various lenses that the company has access to, in order to film events or products for showcasing, creating quality content. Custom videography and photography can be integrated into any of the services Embark offers. 
 
-Within Production we also offer Motion graphics, animations and visual effects to combine with other services. Video work is fantastic in any setting but excels in the digital environment online.
+Within Production we also offer motion graphics, animations and visual effects to combine with other services. Video work will most likely be for the clients to showcase their brand or product online, therefore a Production solution ties in well with services such as web design, which the client may be interested in for an integrated campaign.
